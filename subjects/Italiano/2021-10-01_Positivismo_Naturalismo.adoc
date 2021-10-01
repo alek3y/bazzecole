@@ -1,0 +1,17 @@
+include::2021-09-29_Positivismo.adoc[]
+
+== Naturalismo
+Il positivismo portò delle conseguenze in ambito colturale e letterario, tra cui il _movimento letterario_ del *Naturalismo*.
+
+Già durante la prima metà dell'Ottocento c'era la tendenza al movimento del _Realismo_ che venne introdotto con il testo di _Honoré de Balzac_. +
+Questo movimento consisteva nell'analizzare scientificamente la realtà, per cui il pensiero non è più dominato dai principi astratti ma viene analizzato.
+
+Al suo posto però, si affermò poi il _Naturalismo_ grazie al lavoro degli scrittori _Gustave Flaubert_ e i fratelli _Gon Court_. +
+Questo portò all'affermazione di un'osservazione metodica della realtà e dal dare importanza alla parte di società più umile.
+
+I principi del movimento vennero poi esposti ne **Il Romanzo Sperimentale** di _Émile Zola_, che sono:
+
+* *Scientificità*: la scienza sperimentale viene usata per la scrittura dei romanzi, per cui i fatti devono essere analizzati. +
+Questo cambiò il modo di descrivere l'uomo. Infatti non è più studiato l'uomo in astratto, ma l'uomo naturale influenzato dall'ambiente.
+* *Impersonalità*: lo scrittore dev'essere oggettivo, e non deve intervenire personalmente.
+* *Funzione sociale*: da come scopo il miglioramento dei mali della società.
