@@ -1,4 +1,4 @@
-include::2021-09-29_Positivismo.adoc[]
+include::09-29_Positivismo.adoc[]
 
 == Naturalismo
 Il positivismo portò delle conseguenze in ambito colturale e letterario, tra cui il _movimento letterario_ del *Naturalismo*.
