@@ -1,0 +1,28 @@
+= Le attività
+
+.Definizioni
+* **L'azienda**, che è il mezzo necessario al raggiungimento dell'impresa
+* **L'impresa**, che è l'insieme delle persone che lavora per raggiungere un fine
+
+Nell'azienda si produce e consuma la ricchezza necessaria per soddisfare il fine tramite beni e servizi.
+
+Ogni azienda rientra in un settore specifico:
+
+* _Primo settore_, dello stato per i bisogni essenziali
+* _Secondo settore_, del privato per profitto
+* _Terzo settore_, che è _non profit_
+
+== Attività economica
+Le possibili attività sono:
+
+* _Produzione_
+* _Consumo_
+* _Risparmio_: quando rinunci a qualcosa per il futuro
+* _Investimento_: cioè l'uso di quanto risparmiato
+
+== Azienda e impresa
+Gli elementi che compongo l'impresa sono:
+
+* Beni, sia materiali che immateriali
+* Le persone che ci lavorano
+* L'organizzazione, per la gestione di persone e beni
