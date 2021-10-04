@@ -8,5 +8,5 @@ Every file is named following this format: `MM-DD_Title_Extra.adoc`.
 Anyway, if you're planning to read them, take this fren with you to help ease your depression.
 
 <p align="center">
-	<img src="https://i.ibb.co/gjKyTc0/fren.png" width="300px">
+	<img src="https://i.ibb.co/37PP5jz/fren.png" width="300px">
 </p>
