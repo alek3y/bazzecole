@@ -1,7 +1,7 @@
 include::09-29_Positivismo.adoc[]
 
 == Naturalismo
-Il positivismo portò delle conseguenze in ambito colturale e letterario, tra cui il _movimento letterario_ del *Naturalismo*.
+Il positivismo portò delle conseguenze in ambito culturale e letterario, tra cui il _movimento letterario_ del *Naturalismo*.
 
 Già durante la prima metà dell'Ottocento c'era la tendenza al movimento del _Realismo_ che venne introdotto con il testo di _Honoré de Balzac_. +
 Questo movimento consisteva nell'analizzare scientificamente la realtà, per cui il pensiero non è più dominato dai principi astratti ma viene analizzato.
