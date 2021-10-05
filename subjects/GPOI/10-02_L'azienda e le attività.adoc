@@ -1,0 +1,47 @@
+= L'azienda e le attività
+
+.Definizioni
+* *L'azienda*: è il _mezzo_ necessario al raggiungimento dell'*impresa*, che consiste nell'insieme di tutti i beni *organizzati* dall'imprenditore, come le materie prime, le persone e i macchinari. Tramite questi strumenti.
+* *L'impresa*: che consiste nell'insieme delle relazioni tra le persone e tra i beni utilizzati per arrivare ad un fine.
+
+Ogni azienda rientra in un settore specifico:
+
+* _Primo settore_, gestite _dallo stato_ gratuitamente per i _bisogni_ essenziali dei cittadini
+* _Secondo settore_, del _privato_ (i cittadini) che hanno come scopo il _profitto_
+* _Terzo settore_, chiamate _non profit_, il cui scopo non è il profitto
+
+Per cui, l'azienda produce e consuma la ricchezza necessaria per soddisfare il proprio fine tramite beni e servizi.
+
+I bisogni che punta a soddisfare, tramite le xref:_attività_economiche[attività economiche], sono:
+
+* _Bisogni economici_, disponibili in quantità limitata
+* _Bisogni non economici_, disponibili illimitatamente
+
+== Attività economiche
+Le possibili attività economiche sono:
+
+* _Produzione_, cioè la trasformazione o il miglioramento delle materie prime
+* _Consumo_, cioè l'utilizzo di risorse (beni e servizi) per i bisogni
+* _Risparmio_, che è quando rinunci a qualcosa per poter guadagnarci di più in futuro
+* _Investimento_, cioè l'uso di quanto risparmiato
+
+== L'organizzazione
+Gli elementi interni che compongo l'azienda sono:
+
+* Le _persone_, e le loro relazioni
+* I _prodotti_ e i _servizi interni_
+* I _beni_ aziendali, come i macchinari e le materie prime
+
+Le parti dell'azienda vengono organizzate dall'imprenditore così da arrivare al fine dell'impresa nel modo ottimale.
+
+Per cui sono composte da:
+
+* Il proprietario
+* I lavoratori
+* I clienti e i fornitori
+* La pubblica amministrazione
+
+Mentre i _beni_ che possiedono possono essere:
+
+* _materiali_, come gli impianti
+* _immateriali_, come i brevetti (che permettono a chi li possiede l'uso esclusivo)
