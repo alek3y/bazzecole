@@ -4,7 +4,7 @@ Il positivismo si afferma principalmente nella seconda metà dell'Ottocento, epo
 
 * _Il progresso tecnologico e scientifico_, che porta poi all'industrializzazione
 * _L'ascesa della borghesia liberale_, cioè le persone di classe media che impongono i miti del denaro e del profitto
-* _L'urbanesimo_, che porta all'aumento del proletariato, cioè il trasfermiento di persone dalle campagne alle città per lavorare
+* [[urbanesimo]]_L'urbanesimo_, che porta all'aumento del proletariato, cioè il trasfermiento di persone dalle campagne alle città per lavorare
 
 Dal punto di vista filosofico invece, è caratterizzata dal *positivismo*.
 
@@ -39,3 +39,12 @@ I principi del movimento vennero poi esposti ne **Il Romanzo Sperimentale** di _
 Questo cambiò il modo di descrivere l'uomo. Infatti non è più studiato l'uomo in astratto, ma l'uomo naturale influenzato dall'ambiente.
 * *Impersonalità*: lo scrittore dev'essere oggettivo, e non deve intervenire personalmente.
 * *Funzione sociale*: ha come scopo il miglioramento della società denunciandone i mali.
+
+== Verismo
+Il _Verismo_ è una _corrente letteraria_ che si sviluppa in *Italia* e viene considerata la *variante del Naturalismo* francese. +
+Per via dello squilibrio tra il Nord e il Sud che, grazie all'xref:urbanesimo[aumento del proletariato] cresce ulteriormente, il _Versimo_ ha carattere regionale date le culture diverse delle regioni. +
+Si diffose principalmente grazie al saggio scritto da _Pasquale Villari_, ma anche grazie al fastidio che i cittadini avevano verso quella che era la letteratura moderna.
+
+Al confronto del _Naturalismo_ però, gli scrittori veristi non avevano lo stesso ottimismo di quelli francesi, infatti avevano una _visione pessimistica_. Non credevano che le condizioni dei più umili potessero cambiare.
+
+_Luigi Capuana_, il principale scrittore del _Verismo_, scrisse *Il marchese di Roccaverdina*.
