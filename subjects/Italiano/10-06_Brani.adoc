@@ -1,18 +1,18 @@
 = Brani
 
+== Naturalismo
+
 * *Germinie Lacerteux*
 +
-In questo manifesto della poetica dei *Gon Court*, gli autori chiedono scusa ai lettori, in quanto andranno a leggere:
+_Nella prefazione del romanzo_ dei *Gon Court*, gli autori si rivolgono ai lettori chiedono scusa per quanto andranno a leggere, spiegando come il testo sia tratto dalla _realtà_ delle classi inferiori.
+
+* *Osservazione e sperimentazione*
 +
-** Le storie tratte dalla _realtà delle classi inferiori_
-** Le miserie degli _umili e dei poveri_
-** Un _romanzo reale_ senza lieto fine
+Questo brano di *Émile Zola*, tratto da *Il Romanzo Sperimentale*, descrive come il compito del romanziere sia quello dell'_osservatore_, che si documenta sui fatti, e dello _sperimentatore_, che li sperimenta nel romanzo.
+
+== Verismo
 
 * *Il marchese di Roccaverdina*
 +
-Questo romanzo di *Luigi Capuana* narra quanto segue:
-+
-Il *marchese* convive da anni con una *contadina-amante* e per evitare una sua possibile unione matrimoniale, la fa sposare dal suo *fidato fattore* a patto che non abbia rapporti sessuali con ella.
-Accecato dalla gelosia pensando che il fattore stia disobbidendo al marchese, quest'ultimo _uccise_ il suo fidato sottoposto, per poi far _incolpare un innocente_ che morirà in prigione.
-Subito dopo il misfatto va dal prete a confessarsi giustificando il suo atto come una cosa che ritenenva corretta siccome il fattore non avrebbe dovuto comportarsi in certi modi.
-Il brano si conclude con la visuale del marchese _in preda alla pazzia_ dovuta al rimorso dei suoi atti immorali.
+Di *Luigi Capuana* narra di un *marchese* che confessa di aver ucciso il marito della sua amante (il _fattore_) al prete, ma nonostante questo non vuole comunque auto denunciarsi. +
+Finisce per preoccuparsi che il prete lo denunci, seguito da un rimorso per i suoi atti che lo portano alla _pazzia_.
