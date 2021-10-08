@@ -1,0 +1,40 @@
+= I DBMS
+
+* *sistema informativo*: Insieme delle risorse relazionate tra loro, finalizzate alla getione 
+
+* *sistema informatico*: Insieme di software per elaborare le risorse
+
+Dove i _dati_ sono la *conoscenza grezza* e le _informazioni_ sono derivate da una *elaborazione dei dati*
+
+* i DBMS (Data Base Management Systems) servono per gestire i databse (ex. Oracle, MySQL...)
+
+== Un S.I.A (Sistema Informatico Aziendale) deve avere i seguenti caratteri:
+
+* *Precisione/completezza*: sulla base di quelle inforamzioni, verranno assunte delle decisioni, per questo devono essere complete e corrette
+* *Tempestività*: le informazioni devono essere estrapolate in tempi brevi
+* *Pertinenza:*: devono arrivare ai vari livelli di gstione già oraginzzate
+* *Sinteticità*: devono essere sintetiche per facilitarne l'analisi
+* *Economicità*: i responsabili del SIA forniscono sostegno economico
+
+== Le caratteristiche dei DBMS:
+
+* *Scalabilità*: facilmente modificabile nel caso di variazioni notevoli del numero di dati trattati
+* *Persistenza*: resistono a indeterminate esecuzioni del processo che li gestisce
+* *Condivisione dei dati*: più utenti devono accedere contemporaneamente ai dati
+* *Affidabilità*: la sicurezza deve essere garantita anche in caso di guasto
+* *Efficienza*:  ottimale in ambito di velocità e archiviazione
+
+*I Vantaggi dei DBMS*:
+
+* dati non duplicati
+* accesso ai dati in base a delle regole
+* l'accesso concorrente è gestito dal DBMS che getisce autonomamente la mutua esclusione dei programmi
+
+== Ciclo di vita dei sistemi informativi:
+
+* *studio di fattibilità*: per analizzare costi, benefici e priorità della realizzazione delel varie componenti
+* *raccolta e analisi dei requisiti*: proprietà che il sistema informativo dovrà avere
+* *progettazione*: oraganizzazione dei dati | definizione caratteristiche dei progetti applicativi -> connettività e sicurezza fisica/logica
+* *sviluppo*: viene popolato il DB e vengono prodotti i programmi 
+* *validazione e collaudo*: verificare funzionalità/qualità del sistema informativo
+* *avviamento*: veiene effettuata la migrazione se necessario (da un vecchio S.I.) e si attivano i collegamenti con le altre apllicazioni
