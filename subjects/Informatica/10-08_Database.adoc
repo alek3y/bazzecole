@@ -4,37 +4,3 @@
 * _Sistema **Informatico**_: gli strumenti usati per il trattamento delle informazioni
 
 Dove i _dati_ sono la *conoscenza grezza* e le _informazioni_ sono derivate dalla *elaborazione dei dati*.
-
-//Ciclo di vita dei sistemi informativi:
-
-//* *Studio di fattibilità*: per analizzare i costi, benefici e priorità della realizzazione delle varie componenti
-//* *Raccolta e analisi dei requisiti*: proprietà che il sistema informativo dovrà avere
-//* *Progettazione*: oraganizzazione dei dati | definizione caratteristiche dei progetti applicativi -> connettività e sicurezza fisica/logica
-//* *Sviluppo*: viene popolato il DB e vengono prodotti i programmi
-//* *Validazione e collaudo*: verificare funzionalità/qualità del sistema informativo
-//* *Avviamento*: veiene effettuata la migrazione se necessario (da un vecchio S.I.) e si attivano i collegamenti con le altre apllicazioni
-
-// TODO: Sono i caratteri del SIA non delle info
-Le informazioni di un _Sistema Informatico Aziendale_ devono avere i seguenti caratteri:
-
-* *Precisione/Completezza*: devono essere precise per poterne prendere delle decisioni
-* *Tempestività*: devono essere raggiungibili in tempi brevi
-* *Pertinenza:*: devono risultare già organizzate per l'utente
-* *Sinteticità*: devono essere brevi
-* *Economicità*: i responsabili del SIA forniscono sostegno economico
-
-'''
-
-Le caratteristiche dei DBMS:
-
-* *Scalabilità*: facilmente modificabile nel caso di variazioni
-* *Persistenza*: resistono a più esecuzioni
-* *Condivisione dei dati*: più utenti devono poter accedere contemporaneamente ai dati
-* *Affidabilità*: la sicurezza deve essere garantita anche in caso di guasto
-* *Efficienza*: ottimale in ambito di velocità e archiviazione
-
-I vantaggi dei DBMS:
-
-* Dati non duplicati
-* Accesso ai dati in base a delle regole
-* L'accesso concorrente è gestito dal DBMS che getisce autonomamente la mutua esclusione dei programmi
