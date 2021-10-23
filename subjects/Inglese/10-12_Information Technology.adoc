@@ -1,0 +1,24 @@
+= Information Technology
+
+== The Internet of Things
+
+The phrase "The internet of things" was first coined in 1999 by answering the question if it was possible to incorporate computer chips in electrical system to domestic appliances. +
+Objects are identified via an IP address and are all connected to the Internet.
+There are about 10 billion IoT devices for industrial, medical and commercial use at the moment.
+
+== Reviews of IoT products
+
+=== The OllieQ
+OlliQ is an intelligent robot that will help older people to do online activities easily. Interact with people through small movements and it can also turn on and off lights.
+
+=== The Furbo Camera
+A robot that uses a camera to ejects dog treats on command via mobile app.
+
+=== InstruMMents 01
+A digital measuring tape in the shape of a pen connected via Bluetooth to your device. It also measure in 3D.
+
+=== The Sherlock GPS bike tracker
+A small device hidden inside your bike that can be tracked in case of theft.
+
+=== The HAPIfork
+An electronic fork that monitors and tracks your eating habits and it's useful for improving your eating behaviour.
