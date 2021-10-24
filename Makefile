@@ -1,15 +1,19 @@
+SRCDIR := subjects
+OUTDIR := build
+
 COMPILER := asciidoctor-pdf
-SUBJECTSDIR := subjects
-EXPORTDIR := build
+THEME := themes/custom.yml
+FONTSDIR := fonts
+OPTS := -a pdf-theme=$(THEME) -a pdf-fontsdir=$(FONTSDIR)
 
 all:
-	cd "$(SUBJECTSDIR)" && \
-	for subject in *; do \
-		$(COMPILER) "$$subject"/*.adoc -D "../$(EXPORTDIR)/$$subject"; \
+	for path in $(SRCDIR)/*; do \
+		subject=$$(basename $$path); \
+		$(COMPILER) $(OPTS) "$$path"/*.adoc -D "$(OUTDIR)/$$subject"; \
 	done
 
 zip: all
-	cd "$(EXPORTDIR)" && \
+	cd "$(OUTDIR)" && \
 	for subject in *; do \
 		if [[ -d "$$subject" ]]; then \
 			cd "$$subject"; \
@@ -19,4 +23,4 @@ zip: all
 	done
 
 clean:
-	rm -r "$(EXPORTDIR)"
+	rm -r "$(OUTDIR)"
