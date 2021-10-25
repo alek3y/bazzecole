@@ -11,6 +11,7 @@ Si hanno *sistemi distribuiti* invece quando le applicazioni o/e le informazioni
 //* Reti domestiche
 
 Questo tipo di sistemi sono in grado di:
+
 * Superare guasti tramite la ridondanza dei dati
 * Interagire con componenti diversi
 * Operare come un sistema singolo agli occhi dell'utente
@@ -20,6 +21,7 @@ Questo tipo di sistemi sono in grado di:
 * Integrare facilmente nuovi dispositivi hardware
 
 Invece, gli svantaggi riguardano:
+
 * Sviluppo software
 * Complessità della struttura, rigardante la comunicazione interna
 * Sicurezza, dato che è probabile l'ascolto dei dati in comunicazione
