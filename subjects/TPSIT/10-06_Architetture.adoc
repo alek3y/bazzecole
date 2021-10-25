@@ -1,0 +1,35 @@
+= Architetture
+
+== Sistemi distribuiti
+Normalmente le applicazioni girano su computer con un singolo processore, anche chiamati _sistemi centralizzati_. Tutti i dati si trovano quindi in un unico sistema.
+Si hanno *sistemi distribuiti* invece quando le applicazioni o/e le informazioni si trovano su più host cooperanti.
+
+.Classificazione
+* Sistemi *cluster*, costituito da più computer con gli stessi componenti
+* Sistemi *grid*, opera a più computer con componenti diversi, sia per l'hardware che il software
+* Sistemi distribuiti pervasivi, in cui ogni nodo dell'ecosistema è mobile e sfrutta connessioni wireless\
+//* Reti domestiche
+
+Questo tipo di sistemi sono in grado di:
+* Superare guasti tramite la ridondanza dei dati
+* Interagire con componenti diversi
+* Operare come un sistema singolo agli occhi dell'utente
+* Costare meno usando più componenti meno performanti ottentendo comunque alte prestazioni
+* Utilizzare protocolli standard
+* Condividere risorse hardware e software
+* Integrare facilmente nuovi dispositivi hardware
+
+Invece, gli svantaggi riguardano:
+* Sviluppo software
+* Complessità della struttura, rigardante la comunicazione interna
+* Sicurezza, dato che è probabile l'ascolto dei dati in comunicazione
+* Comunicazione, vista la mole di dati
+
+== Evoluzione dei sistemi distribuiti
+I sistemi distribuiti usano più microchip, dato che il rimpicciolimento dei transistor causa errori (quindi invalidando la _Legge di Moore_, per cui il numero di transistor raddoppia ogni 18 mesi).
+
+.Strutture
+* _SISD_, cioè con un'istruzione si elabora un dato alla volta
+* _SIMD_, come per le GPU che elaborano più dati con una istruzione
+* _MIMD a multiprocessore_, che hanno la memoria in comune (come i _thread_)
+* _MIMD a multicomputer_, che usano lo scambio di messaggi per la condivisione dei dati (come con _fork_)
