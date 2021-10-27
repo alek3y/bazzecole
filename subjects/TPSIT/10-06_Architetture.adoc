@@ -8,17 +8,16 @@ Si hanno *sistemi distribuiti* invece quando le applicazioni o/e le informazioni
 * Sistemi *cluster*, costituito da più computer con gli stessi componenti
 * Sistemi *grid*, opera a più computer con componenti diversi, sia per l'hardware che il software
 * Sistemi distribuiti pervasivi, in cui ogni nodo dell'ecosistema è mobile e sfrutta connessioni wireless
-//* Reti domestiche
 
-Questo tipo di sistemi sono in grado di:
+Le caratteristiche di questo tipo di sistemi sono:
 
-* Superare guasti tramite la ridondanza dei dati
-* Interagire con componenti diversi
-* Operare come un sistema singolo agli occhi dell'utente
-* Costare meno usando più componenti meno performanti ottentendo comunque alte prestazioni
-* Utilizzare protocolli standard
-* Condividere risorse hardware e software
-* Integrare facilmente nuovi dispositivi hardware
+* _Affidabilità_: superano guasti tramite la ridondanza dei dati
+* _Integrazione_: si integrano con componenti diversi
+* _Trasparenza_: operano come un sistema singolo agli occhi dell'utente
+* _Economicità_: costano meno con più componenti meno performanti ottentendo comunque alte prestazioni
+* _Apertura_: utilizzano protocolli standard
+* _Collaborazione_: possono condividere le proprie risorse hardware e software
+* _Scalabilità_: integrano facilmente nuovi dispositivi hardware
 
 Invece, gli svantaggi riguardano:
 
@@ -35,6 +34,15 @@ I sistemi distribuiti usano più microchip, dato che il rimpicciolimento dei tra
 * _SIMD_, come per le GPU che elaborano più dati con una istruzione
 * _MIMD a multiprocessore_, che hanno la memoria in comune (come i _thread_)
 * _MIMD a multicomputer_, che usano lo scambio di messaggi per la condivisione dei dati (come con _fork_)
+
+=== Architettura Web-centric
+Con l'evoluzione di questi sistemi è nata la struttura che ruota intorno al Web, per cui le applicazioni utilizzate dall'utente si trovano completamente sul server. +
+Per cui la struttura _Client-Server_ si trova interamente nel Web, rendendolo un sistema distribuito.
+
+Un esempio è _Google Docs_ che ha l'interfaccia client sul Web che comunica con il server che fa da backend per gestire i documenti salvati.
+
+=== Middleware
+Forniscono dei framework per semplificare lo sviluppo e la pubblicazione di applicazioni che si affidano ai sistemi distribuiti. Per questo motivo si concentra principalmente sulla comunicazione tra i componenti del sistema, e non sull'applicazione stessa (come la gestione degli errori).
 
 == HTTP
 Il protocollo *HTTP* segue la struttura _Client-Server_ dove il server rimane in ascolto per nuove connessioni, mentre il client le avvia.
