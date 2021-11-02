@@ -1,7 +1,7 @@
 = L'azienda e le attività
 
 .Definizioni
-* *L'azienda*: è il _mezzo_ necessario al raggiungimento dell'*impresa*, che consiste nell'insieme di tutti i beni *organizzati* dall'imprenditore, come le materie prime, le persone e i macchinari. Tramite questi strumenti.
+* *L'azienda*: è il _mezzo_ necessario al raggiungimento dell'*impresa*, che consiste nell'insieme di tutti i beni *organizzati* dall'imprenditore, come le materie prime, le persone e i macchinari.
 * *L'impresa*: che consiste nell'insieme delle relazioni tra le persone e tra i beni utilizzati per arrivare ad un fine.
 
 Ogni azienda rientra in un settore specifico:
@@ -18,7 +18,7 @@ I bisogni che punta a soddisfare, tramite le xref:_attività_economiche[attivit�
 * _Bisogni non economici_, disponibili illimitatamente
 
 == Attività economiche
-Le possibili attività economiche sono:
+Le attività economiche sono azioni che l'azienda compie per soddisfare i propri bisogni e sono:
 
 * _Produzione_, cioè la trasformazione o il miglioramento delle materie prime
 * _Consumo_, cioè l'utilizzo di risorse (beni e servizi) per i bisogni
@@ -32,9 +32,9 @@ Gli elementi interni che compongo l'azienda sono:
 * I _prodotti_ e i _servizi interni_
 * I _beni_ aziendali, come i macchinari e le materie prime
 
-Le parti dell'azienda vengono organizzate dall'imprenditore così da arrivare al fine dell'impresa nel modo ottimale.
+Questi elementi vengono organizzati dall'imprenditore.
 
-Per cui sono composte da:
+Le persone sono composte da:
 
 * Il proprietario
 * I lavoratori
@@ -43,5 +43,39 @@ Per cui sono composte da:
 
 Mentre i _beni_ che possiedono possono essere:
 
-* _materiali_, come gli impianti
-* _immateriali_, come i brevetti (che permettono a chi li possiede l'uso esclusivo)
+* _materiali_, come gli impianti e le merci
+* _immateriali_, come i brevetti o le idee
+
+Attraverso un *organigramma* è possibile rappresentare i ruoli e l'organizzazione dell'azienda.
+
+== Classificazione del sistema aziendale
+La classificazione avviene in base a tre parametri:
+
+* Profitto: che si suddivide in *erogazione* che soddisfano bisogni di persone esterne senza scopo di lucro (assistenza o beneficenza), *consumo* che che soddisfano bisogni delle persone che fanno parte del proprio gruppo (famiglie o club), e *produzione* che producono beni e hanno scopo di lucro. +
+_Produzione diretta_: trasformazione di materie prime in altri beni o servizi. +
+_Produzione indiretta_: distribuzione e trasferimento di beni (aziende di trasporto, mercantili).
+
+* Natura: che si suddivide in *aziende private* che hanno come soggetto giuridico una persona fisica (associazione sportive), e *aziende pubbliche* che hanno come soggetto giuridico un ente statale (stato, regioni, provincie).
+
+* Settore di attività: che si suddivide in *primario* che sfruttano le risorse naturali (agricoltura), *secondario* che trasformano i prodotti (artigiani), *terziario* che forniscono servizi immateriali, *quaternario* che comprende l'informatica e la comunicazione.
+
+== Gestione aziendale
+La gestione aziendale è l'insieme di operazioni che permettono all'azienda di completare i propri obbiettivi durante la propria esistenza, è possibile esaminarla in base a:
+
+* Le *attività* che svolge: +
+** Finanziamento: aquisire i soldi necessari a svolgere l'attività.
+** Investimento: utilizzare il finanziamento per acquisire le merci.
+** Trasformazione: combinare le merci per produrre beni o servizi.
+** Vendita: recuperare i soldi investiti creando un reddito.
+
+* Le *trasformazioni* legate agli aspetti:
+** Tecnico: utilizzare le materie prime per produrre beni e servizi.
+** Finanziario: monitorando le entrate e uscite monetarie.
+** Economico: vendendo i prodotti che generano nuova ricchezza.
+
+Per produrre beni è necessario l'impiego di risorse che sono:
+
+* Il *capitale*: che può essere denaro, beni materiali o beni immateriali.
+* Il *lavoro*: che sfutta il capitale per la produzione.
+
+Il *codice ATECO* classifica ogni attività economica in base a dei codici specifici che vanno da una categoria generica ad una sempre più specifica (in tutto sono 6 livelli).
