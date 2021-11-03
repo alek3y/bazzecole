@@ -79,3 +79,53 @@ Per produrre beni è necessario l'impiego di risorse che sono:
 * Il *lavoro*: che sfutta il capitale per la produzione.
 
 Il *codice ATECO* classifica ogni attività economica in base a dei codici specifici che vanno da una categoria generica ad una sempre più specifica (in tutto sono 6 livelli).
+
+== I costi aziendali
+* *Efficacia*: rapporto tra gli obbiettivi raggiunti e quelli che si sarebbero dovuti raggiungere.
+* *Efficienza*: rapporto tra i risultati ottenuti e le risorse usate per raggiungerli.
+
+I _ricavi_ (i soldi ottenuti vendendo il prodotto) si calcolano moltiplicando il prezzo per la quantità: *R = p * q*. +
+I _costi_ vengono calcolati in modo diverso da azinda in azienda in base alla *configurazione di costo* cioè l'insieme delle risorse il cui valore determina il costo. +
+Il _profitto_ (il guadagno effettivo) si calcola togliendo i costi dai ricavi: *P = R - C*.
+
+=== Classificazione dei costi
+Distinzione tra i costi di prodotto e di periodo:
+
+* Costi di prodotto: divisi in costi di *lavoro diretto* relativi agli operai che producono, costi di *materiali diretti* relativi agli acquisti di materie prime, e *costi indiretti di prduzione* associabili all'attività produttiva nel complesso.
+* Costi di periodo: compendono attività non direttamente collegate alla produzione.
+
+Distinzione tra i costi fissi e variabili:
+
+* Costi fissi: non variano nel breve periodo.
+* Costi variabili: sono in continua variazione. +
+
+Il *costo totale* risulta essere la somma tra i costi fissi e quelli variabili. +
+Esistono anche i _costi semivariabili_ che sono a volte fissi e a volte variabili.
+
+Distinzione tra i costi evitabili e non evitabili:
+
+* Costi evitabili: sono i costi che sono sottoposti ad una decisione.
+* Costi non evitabili: devono essere soddisfatti per forza.
+
+L'analisi del profitto avviene sovrapponendo il grafico dei costi totali con il grafico dei ricavi.
+
+=== Determinazione dei costi di un prodotto
+Per determinare il costo di un prodotto si considerano tre elementi:
+
+* *Voci di costo* che possono essere: di _direct costing_ che associa solo i costi direttamente collegati al prodotto, e di _full costing_ che aggiunge anche i costi non direttamente collegati al prodotto.
+
+* *Quando decidere* il costo che può essere: a _costi storici_ che rileva il costo delle risorse solo dopo aver fatto il prodotto, e a _costi standard_ in cui il costo viene definito prima della realizzazione.
+
+* *Modalità di rilevazione* che può essere: causale e proporzionale.
+
+*Portafoglio applicativo* è l'insieme delle applicazioni informatiche di un'azineda che si divide in:
+
+* Portafoglio direzionale: che comprende la pianificazione e controllo delle risorse.
+* Portafoglio istituzionale: che comprende amministrazione, supporto e gestione delle risorse umane.
+* Portafoglio operativo: che comprende i processi primari dell'azienda.
+
+=== Il costo del ciclo di vita di un prodotto
+I costi del ciclo di vita di un prodotto si compone di diverse fasi: +
+Concept -> Progettazione -> Ingegnerizzazione -> Produzione -> Logistica +
+In ogni fase vengono sostenuti dei costi diversi che servono per stimare quali sono i costi da sostenere per tutta la vita del prodotto. +
+Esiste anche una formulazione più estesa, il _whole life cycle cost_ che comprende anche i costi di installazione, manutenzione e smaltimento.
