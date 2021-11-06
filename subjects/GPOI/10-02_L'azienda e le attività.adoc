@@ -51,7 +51,7 @@ Attraverso un *organigramma* è possibile rappresentare i ruoli e l'organizzazio
 == Classificazione del sistema aziendale
 La classificazione avviene in base a tre parametri:
 
-* Profitto: che si suddivide in *erogazione* che soddisfano bisogni di persone esterne senza scopo di lucro (assistenza o beneficenza), *consumo* che che soddisfano bisogni delle persone che fanno parte del proprio gruppo (famiglie o club), e *produzione* che producono beni e hanno scopo di lucro. +
+* Profitto: che si suddivide in *erogazione* che soddisfano bisogni di persone esterne senza scopo di lucro (assistenza o beneficenza), *consumo* che soddisfano bisogni delle persone che fanno parte del proprio gruppo (famiglie o club), e *produzione* che producono beni e hanno scopo di lucro. +
 _Produzione diretta_: trasformazione di materie prime in altri beni o servizi. +
 _Produzione indiretta_: distribuzione e trasferimento di beni (aziende di trasporto, mercantili).
 
@@ -85,13 +85,13 @@ Il *codice ATECO* classifica ogni attività economica in base a dei codici speci
 * *Efficienza*: rapporto tra i risultati ottenuti e le risorse usate per raggiungerli.
 
 I _ricavi_ (i soldi ottenuti vendendo il prodotto) si calcolano moltiplicando il prezzo per la quantità: *R = p * q*. +
-I _costi_ vengono calcolati in modo diverso da azinda in azienda in base alla *configurazione di costo* cioè l'insieme delle risorse il cui valore determina il costo. +
+I _costi_ vengono calcolati in modo diverso da azienda in azienda in base alla *configurazione di costo* cioè l'insieme delle risorse il cui valore determina il costo. +
 Il _profitto_ (il guadagno effettivo) si calcola togliendo i costi dai ricavi: *P = R - C*.
 
 === Classificazione dei costi
 Distinzione tra i costi di prodotto e di periodo:
 
-* Costi di prodotto: divisi in costi di *lavoro diretto* relativi agli operai che producono, costi di *materiali diretti* relativi agli acquisti di materie prime, e *costi indiretti di prduzione* associabili all'attività produttiva nel complesso.
+* Costi di prodotto: divisi in costi di *lavoro diretto* relativi agli operai che producono, costi di *materiali diretti* relativi agli acquisti di materie prime, e *costi indiretti di produzione* associabili all'attività produttiva nel complesso.
 * Costi di periodo: compendono attività non direttamente collegate alla produzione.
 
 Distinzione tra i costi fissi e variabili:
@@ -118,7 +118,7 @@ Per determinare il costo di un prodotto si considerano tre elementi:
 
 * *Modalità di rilevazione* che può essere: causale e proporzionale.
 
-*Portafoglio applicativo* è l'insieme delle applicazioni informatiche di un'azineda che si divide in:
+*Portafoglio applicativo* è l'insieme delle applicazioni informatiche di un'azienda che si divide in:
 
 * Portafoglio direzionale: che comprende la pianificazione e controllo delle risorse.
 * Portafoglio istituzionale: che comprende amministrazione, supporto e gestione delle risorse umane.
