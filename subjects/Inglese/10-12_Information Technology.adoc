@@ -42,3 +42,9 @@ They prefer to shop for clothes online rather than in physical stores.
 In some cases desktop and laptops are not powerful enough for some operations, in this situations you may need a *workstation*. Workstations are used for expensive and sophisticated applications. +
 The next level are the *mainframes* that can handle huge amounts of data in a serial way or in a parallel way. +
 After the mainframe, there is the *supercomputer* that is bigger, faster and more expensive. Today supercomputers are used for weather maps, earthquake prediction and a lot of scientific operations.
+
+== Small, smaller, the smallest
+Early computer enthusiasts used the *Altair 880*, where data and programs where 
+both entered via switches on the front of the computer, and the programs were written in *Basic*,
+then Apple 2 came in, it was a pc with *keyboard and display* that used *floppy discs*.
+IBM then launched MS-DOS, but the need of portability led to the creation of *laptops* that had trackballs that were replaced with touchpads.
