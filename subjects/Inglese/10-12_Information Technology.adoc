@@ -48,3 +48,12 @@ Early computer enthusiasts used the *Altair 880*, where data and programs where
 both entered via switches on the front of the computer, and the programs were written in *Basic*,
 then Apple 2 came in, it was a pc with *keyboard and display* that used *floppy discs*.
 IBM then launched MS-DOS, but the need of portability led to the creation of *laptops* that had trackballs that were replaced with touchpads.
+
+==The touchscreen revolution
+They will be the future of computing, the *resistive systems* provides 2 layers of the screen, and when you touch it, the layers will make contact changing the electrical field, so the computer can locate where you clicked.
+*Capacitive systems* use glass displays with a conductive layer, so when you touch the screen, some ofthe charge is transfered to your finger and the charge in that point of the screen decreases, so the computer will knows where you touched.
+*Optical or infrared systems* are cheaper and better than the others touchscreen methods. The touch infact is registered as a shadow that passes through the optcal sensors.
+
+==The new iPad 2018
+It has a *retina display* with an amazing clarity and scratch-resistant glass, *touch id* to unlock it via your finger, *wi-fi and 4g lte* for a fast navigation on the internet, *augmented reality* that can help you in everyday problems like putting a furniture in your room and see how it fits.
+It also has an *apple pencil* with a lot of functions, and *IOS* 11, the world most advanced mobile OS, that lets you run all the apps that you like, that are directly downloadable from the *app store*
