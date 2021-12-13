@@ -44,8 +44,7 @@ The next level are the *mainframes* that can handle huge amounts of data in a se
 After the mainframe, there is the *supercomputer* that is bigger, faster and more expensive. Today supercomputers are used for weather maps, earthquake prediction and a lot of scientific operations.
 
 == Small, smaller, the smallest
-Early computer enthusiasts used the *Altair 880*, where data and programs where 
-both entered via switches on the front of the computer, and the programs were written in *Basic*,
+Early computer enthusiasts used the *Altair 880*, where data and programs where both entered via switches on the front of the computer, and the programs were written in *Basic*,
 then Apple 2 came in, it was a pc with *keyboard and display* that used *floppy discs*.
 IBM then launched MS-DOS, but the need of portability led to the creation of *laptops* that had trackballs that were replaced with touchpads.
 
@@ -57,3 +56,11 @@ They will be the future of computing, the *resistive systems* provides 2 layers 
 == The new iPad 2018
 It has a *retina display* with an amazing clarity and scratch-resistant glass, *touch id* to unlock it via your finger, *wi-fi and 4g lte* for a fast navigation on the internet, *augmented reality* that can help you in everyday problems like putting a furniture in your room and see how it fits.
 It also has an *apple pencil* with a lot of functions, and *IOS* 11, the world most advanced mobile OS, that lets you run all the apps that you like, that are directly downloadable from the *app store*.
+
+== The dark side of the Internet
+The internet is a _public land_, and so it's not a perfectly safe place. +
+Some hackers attack individuals, but most of them are not malicious. Their goal is to find holes in security systems. Penetrating one is known as an *exploit*. +
+Crackers, instead try to create as much damage as possible. They might use *smurfing*, an attack that floods the ISP to block the flow of packets for customers. They might also use _malware_ like *viruses* to take over people's computers or *ransomwares* to demand money to restore their data.
+Another negative side of the internet includes *spam*, email junk sent by companies for commercial purposes. They collect user's email addresses from public sources or by randomly guessing the usernames. +
+This can be used also by *phishers*, whose goal is to trick people into giving sensitive information that they can then use or sell in black markets. For this they might end up using a *botnet*, a network of _zombie computers_ whose owners are unaware of their use, and that can be remotely controlled for anything.
+Because this ends up being complicated, some criminals prefer *cybersquatting* which is the practice of registering a domain with a company's trademark, so that it will then be bought for much more.
