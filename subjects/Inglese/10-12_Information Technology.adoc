@@ -1,7 +1,6 @@
 = Information Technology
 
 == The Internet of Things
-
 The phrase "The internet of things" was first coined in 1999 by answering the question if it was possible to incorporate computer chips in electrical system to domestic appliances. +
 Objects are identified via an IP address and are all connected to the Internet.
 There are about 10 billion IoT devices for industrial, medical and commercial use at the moment.
@@ -64,3 +63,29 @@ Crackers, instead try to create as much damage as possible. They might use *smur
 Another negative side of the internet includes *spam*, email junk sent by companies for commercial purposes. They collect user's email addresses from public sources or by randomly guessing the usernames. +
 This can be used also by *phishers*, whose goal is to trick people into giving sensitive information that they can then use or sell in black markets. For this they might end up using a *botnet*, a network of _zombie computers_ whose owners are unaware of their use, and that can be remotely controlled for anything.
 Because this ends up being complicated, some criminals prefer *cybersquatting* which is the practice of registering a domain with a company's trademark, so that it will then be bought for much more.
+
+== The anatomy of a phishing scan
+A lot of people end up recieving phishing emails, but most of them have something in common:
+
+- _Spelling and grammar_: it is very likely that the text contains some mistakes, as companies usually have a team whose job is to correct them.
+- _Links_: it is always a good idea to not click on a link inside a suspicious message. By hovering on them you can preview where they'll redirect.
+- _Threats_: a lot of these emails contain threats about your security and how it has been compromised.
+- _Spoofed graphics_: there usually are images connected to legitimate companies that link to scam websites.
+
+== Fake news
+The term refers to news and stories that look real but are actually false and unfounded. Their clickbait gets people decieved and makes them share disinformation. +
+Most people impulsively share fake news before they even had the time to check on the sources.
+Bots might otherwise be used to share these news as if they were real people. Because of their wide spreading, they became one of the biggest internet problems.
+There are a ton of websites that spread fake news. Most follow the style of legitimate news sites so that people get decieved easily without questioning. +
+The authors might just be pressured by other news sites. As it usually is however, they might just do it for money, or even worse to change other's political beliefs.
+
+== A guide to healthy computing
+Because of the rapid changes in technology, computers are being used more and more for people's job. This might influece their performance and long-term health. +
+This is why ergonomic devices were introduced. They help relax stress on muscles, thus reducing hands, wrists and eyes fatigue. +
+Using well-designed tools is not enough though. Proper habits have to also be adopted to prevent injuries.
+
+Because laptops are designed for portability, the keyboard and screen are connected, making them quite uncomfortable.
+If you use it occasionally, you can just put in on your lap and tilt the screen back to minimize neck stress. But if you use it full-time, you should put it on your desk.
+For this you might prefer to use a *laptop stand* to raise the laptop off the desk surface. +
+The monitor height should be just below eye level, and the brightness should be adjusted to minimize the glare.
+Taking visual breaks, changing posture and standing up from the chair for 15 minutes every now and then is one of the best methods to prevent health issues.
