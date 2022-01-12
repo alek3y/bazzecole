@@ -54,7 +54,7 @@ Lo *svantaggio* principale è che si tratta di un'analisi statica che deve esser
 L'organizzazione di un azienda è l'insieme delle persone che operano secondo policy, regole, procedure e coordinamento delle risorse.
 La specializzazione del lavoro viene suddivisa in: +
 
-* *Specializzazione verticale*: in cui le presone che progettano il lavore e quelle che effettivamente eseguiono il progetto sono *diverse*, quindi ogni persona ha solo un'attività da svolgere.
+* *Specializzazione verticale*: in cui le presone che progettano il lavoro e quelle che effettivamente eseguono il progetto sono *diverse*, quindi ogni persona ha solo un'attività da svolgere.
 
 * *Specializzazione orizzontale*: in cui le persone possono svolgere compiti vari, quindi una persona può sia progettare che eseguire il progetto.
 
