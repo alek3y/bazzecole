@@ -100,3 +100,15 @@ These clients download all the emails from the server, when _IMAP_ is used, but 
 
 Because it's incredibly easy to use, a lot of people recieve *spam*. There are *spam filters* made to stop that, but it's not always enough. +
 To make sure nobody reads your emails you can use *encryption*.
+
+== Want to share news and opinions with the world?
+Blogs are a simple way for users to share their thoughts on the Internet. Because of this, services to simplify the publishing of articles started to emerge all around the web.
+The downside of using these tools is that they can be restrictive.
+
+One way to overcome these issues is to build a *self-hosted* blog, so that everything can be customized.
+In order to build one you must first register a *domain name*, and then get a server for the *hosting*. +
+Free software, like _wordpress_ can be used to install a self-hosted blog, and tools like *FTP* allow the uploading of files to the server. For media, however, it might be cheaper to use sharing websites like YouTube because you won't be paying for the storage.
+
+== Google sites
+Google Sites is a website building platform that allows uses to create websites without knowing how to code. +
+It supports choosing a theme, embedding of elements like maps and calendars and many other features, and limiting the access to a select few. If you don't own a domain name it will also allow you to buy one.
