@@ -89,3 +89,14 @@ If you use it occasionally, you can just put in on your lap and tilt the screen 
 For this you might prefer to use a *laptop stand* to raise the laptop off the desk surface. +
 The monitor height should be just below eye level, and the brightness should be adjusted to minimize the glare.
 Taking visual breaks, changing posture and standing up from the chair for 15 minutes every now and then is one of the best methods to prevent health issues.
+
+== You've got email
+Email is one of the most important method of communication on the Internet. It is still widely used today as it's the preferred option for business. +
+Each email program is expected to have the ability to send *attachments*, *save contacts* and send either a *carbon copy* (_Cc_) or a *blind copy* (_Bc_) which would be a copy of the email to other recipients.
+Another special feature might be *tagging*, which allows to tag emails into categories.
+
+Emails are sent to a mail server through a client. Most people now use *webmail*, so that they can access their emails from a browser.
+These clients download all the emails from the server, when _IMAP_ is used, but only the new ones when _POP_ is used.
+
+Because it's incredibly easy to use, a lot of people recieve *spam*. There are *spam filters* made to stop that, but it's not always enough. +
+To make sure nobody reads your emails you can use *encryption*.
