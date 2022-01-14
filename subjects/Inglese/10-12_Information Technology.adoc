@@ -112,3 +112,19 @@ Free software, like _wordpress_ can be used to install a self-hosted blog, and t
 == Google sites
 Google Sites is a website building platform that allows uses to create websites without knowing how to code. +
 It supports choosing a theme, embedding of elements like maps and calendars and many other features, and limiting the access to a select few. If you don't own a domain name it will also allow you to buy one.
+
+== Ready for a Twitter chat?
+Twitter is like a blogging website that allows users to create posts of no more than 140 characters. In the early days it was thought as a limited platform for celebrities, but now everyone uses it.
+Some people use it as a newsfeed, others as a microblog to update others about the work they're doing. +
+A useful feature it provides is the filtering of what might not be of interest, given the amount of tweets you can have on your feed. +
+Users can also be tagged by adding the 'at' character (@) before their username. If you want you can also write private messages called (DMs), though. Another special character is the 'hash' character that can categorize a tweet so as to make them easy to find.
+
+== Facebook's privacy crisis
+Mark Zuckerberg is the founder of one of the most famous social networks, Facebook. He recently faced a though privacy crisis.
+The data of hundreds of millions of users has been illicitly obtained by Cambridge Analytica without the users' consent, and has been used to delude people to vote for Trump's presidential campaign. +
+Because of this people are starting to realize how dangerous Facebook is. If you're concerned about your privacy there are some things you can do:
+
+- Change the visibily of your profile from the settings
+- Change what information is shared on Facebook
+- Check your friends activity, so that you can remove tags of yourself if you want to
+- Check for apps permissions
