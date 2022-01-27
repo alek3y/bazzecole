@@ -1,10 +1,10 @@
+= SQL
+
 == Teoria
 
 * *SQL*: Structured Query Language
-* *DML (Data Manipulation Language)*: Per  leggere,  inserire,  modificare  e  cancellare dei dati. 
-* *DDL (Data  Definition  Language)*: Per  la  definizione  della  struttura  dei  dati, delle regole di integrità e dei privilegi degli utenti.
-
-image::images/ddl_dml.png[]
+* *DML (Data Manipulation Language)*: Per leggere, inserire, modificare e cancellare dei dati (*SELECT*, *INSERT*, *UPDATE*, *DELETE*).
+* *DDL (Data Definition Language)*: Per la definizione della struttura dei dati, delle regole di integrità e dei privilegi degli utenti (*CREATE*, *ALTER*, *DROP*).
 
 Il *grado* di una tabella è definito dalla quantità di campi (colonne) che la compongono.
 
@@ -25,20 +25,21 @@ Esistono vari tipi di *attributi*:
 * *calcolato*: un attributo è una stringa calcolata (codice fiscale).
 
 == Struttura di una query
-*CREAZIONE TABELLA*
+
+.Creazione tabella
 [source,sql]
 ----
 CREATE TABLE attori (
-  CodAttore char(5) NOT NULL,
-  Nome varchar(30) NOT NULL,
-  AnnoNascita date DEFAULT NULL,
-  Nazionalità varchar(25) DEFAULT NULL,
-  PRIMARY KEY (CodAttore),
-  FOREIGN KEY (Nome) REFERENCES Persone(ID_Persona) ON DELETE CASCADE
+	CodAttore CHAR(5) NOT NULL,
+	Nome VARCHAR(30) NOT NULL,
+	AnnoNascita date DEFAULT NULL,
+	Nazionalità VARCHAR(25) DEFAULT NULL,
+	PRIMARY KEY (CodAttore),
+	FOREIGN KEY (Nome) REFERENCES Persone(ID_Persona) ON DELETE CASCADE
 );
 ----
 
-*INSERIMENTO*
+.Inserimento
 [source,sql]
 ----
 INSERT INTO attori (CodAttore, Nome, AnnoNascita, Nazionalità) VALUES
@@ -47,7 +48,7 @@ INSERT INTO attori (CodAttore, Nome, AnnoNascita, Nazionalità) VALUES
 ('00003', 'M.Mastroianni', '1965-10-12', 'usa');
 ----
 
-*AGGIORNAMENTO*
+.Aggiornamento
 [source,sql]
 ----
 UPDATE attori SET Nazionalità = 'italia' WHERE CodAttore = '00001';
@@ -58,23 +59,18 @@ oppure per aggiungere colonne (ma anche per modificare i campi già esistenti):
 [source,sql]
 ----
 ALTER TABLE attori
-ADD Email varchar(255);
+ADD Email VARCHAR(255);
 ----
 
-*AGGIORNAMENTO POST CREAZIONE TABELLA*
+.Aggiornamento post creazione tabella
 [source,sql]
 ----
 ALTER TABLE Persone
 ADD CONSTRAINT Nome PRIMARY KEY (ID);
 ----
 
-*CANCELLAZIONE*
+.Cancellazione
 [source,sql]
 ----
 DROP TABLE attori;
 ----
-
-
-
-
-
