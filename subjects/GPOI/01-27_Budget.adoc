@@ -18,18 +18,18 @@ Nel caso non si conosca un costo, è utile ricorrere al web.
 
 == Costi
 
-- *Diretti*, che sono quelli unicamente sostenuti per il progetto (come i costi dell'attrezzatura e del personale). +
+* *Diretti*, che sono quelli unicamente sostenuti per il progetto (come i costi dell'attrezzatura e del personale). +
 Questi costi vanno dimostrati (attraverso fatture e ricevute).
-- *Indiretti*, cioè i costi non prevedibili sostenuti dall'azienda per la gestione dell'attività ma non direttamente riguardanti il progetto (come i costi di affitto). +
+* *Indiretti*, cioè i costi non prevedibili sostenuti dall'azienda per la gestione dell'attività ma non direttamente riguardanti il progetto (come i costi di affitto). +
 Vengono espressi in moneta e percentuali.
-- *Non ammissibili*, alcuni costi non possono essere messi nel budget:
-	- Costi senza fattura, come i prestiti
-	- Investimenti di capitale (?)
-	- Oneri finanziari (?)
-	- Interessi passivi, che sono gli interessi dovuti per un prestito
-	- Perdite dovute al cambio di valuta
-	- L'IVA se è recuperabile
-	- Sanzioni
+* *Non ammissibili*, alcuni costi non possono essere messi nel budget:
+** Costi senza fattura, come i prestiti
+** Investimenti di capitale (?)
+** Oneri finanziari (?)
+** Interessi passivi, che sono gli interessi dovuti per un prestito
+** Perdite dovute al cambio di valuta
+** L'IVA se è recuperabile
+** Sanzioni
 
 == Riserva di contingenza
 
