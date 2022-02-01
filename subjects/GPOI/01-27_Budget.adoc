@@ -1,0 +1,36 @@
+= Budget
+
+Il budget è un *documento* formale che attesta le _stime dei costi_ totali di un progetto. +
+Inoltre, diventa anche utile durante la fase di attuazione del progetto per verificare variazioni sui prezzi programmati.
+
+Si tratta di una possibile stima dei costi sostenuti durante l'avviamento di un nuovo progetto. +
+Viene utilizzato dal *project manager* sia per valutare la fattibilità del progetto che per avere una panoramica dei costi stimati, necessari per la presentazione del progetto agli _stakeholders_ (tra cui gli investitori).
+
+== Caratteristiche
+
+Il budget deve rimanere *coerente* con le attività previste dal progetto.
+
+Deve seguire legge del *minimo mezzo*, per cui il risultato è quello ottenuto con il _minor sacrificio possibile_. +
+Ma deve anche seguire la legge del *massimo risultato*, per cui si cerca di ottenere il _massimo risultato possibile_.
+
+Inoltre, i prezzi non devono essere volti a risparmiare sul budget totale e quindi la somma delle entrate (il budget) e delle uscite deve risultare _zero_. +
+Nel caso non si conosca un costo, è utile ricorrere al web.
+
+== Costi
+
+- *Diretti*, che sono quelli unicamente sostenuti per il progetto (come i costi dell'attrezzatura e del personale). +
+Questi costi vanno dimostrati (attraverso fatture e ricevute).
+- *Indiretti*, cioè i costi non prevedibili sostenuti dall'azienda per la gestione dell'attività ma non direttamente riguardanti il progetto (come i costi di affitto). +
+Vengono espressi in moneta e percentuali.
+- *Non ammissibili*, alcuni costi non possono essere messi nel budget:
+	- Costi senza fattura, come i prestiti
+	- Investimenti di capitale (?)
+	- Oneri finanziari (?)
+	- Interessi passivi, che sono gli interessi dovuti per un prestito
+	- Perdite dovute al cambio di valuta
+	- L'IVA se è recuperabile
+	- Sanzioni
+
+== Riserva di contingenza
+
+È una percentuale d'importo rispetto al budget utile a fronteggiare situazioni impreviste tra i rischi presenti nel registro dei rischi.
