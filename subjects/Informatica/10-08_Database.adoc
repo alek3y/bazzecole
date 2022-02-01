@@ -1,6 +1,0 @@
-= Database
-
-* _Sistema **Informativo**_: insieme delle informazioni relazionate tra loro
-* _Sistema **Informatico**_: gli strumenti usati per il trattamento delle informazioni
-
-Dove i _dati_ sono la *conoscenza grezza* e le _informazioni_ sono derivate dalla *elaborazione dei dati*.
