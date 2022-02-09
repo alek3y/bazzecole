@@ -54,8 +54,8 @@ Mentre i tipi sono:
 * *SOCK_DGRAM*, che sfrutta l'_UDP_
 * *SOCK_RAW*, utilizzati per lo sviluppo di protocolli
 
-=== Python
-Su Python esistono delle funzioni per creare i socket e comunicare tra client e server.
+=== TCP
+Su Python esistono delle funzioni per creare i socket tcp e comunicare tra client e server.
 
 Per il server:
 
@@ -93,4 +93,43 @@ s.connect(("127.0.0.1", 1337))
 while True:
 	msg = input("Inserisci messaggio: ")
 	s.send(msg.encode())
+----
+
+=== UDP
+Essendo il protocollo udp _connectionless_, non richiederà nessun tipo di accertamento tra le due parti che vogliono comunicare.
+
+* Bisognerà specificare ogni volta a chi si vuole mandare il messaggio.
+
+Vediamo ora le funzioni per creare una comunicazione con socket udp.
+
+Per il server:
+
+1. `s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)`, per creare il socket
+2. `s.bind\((addr, port))`, per associare un indirizzo (_addr_) e una porta (_port_)
+
+Mentre, per il client:
+
+1. `s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)`, per creare il socket
+
+==== Esempio
+
+.Server
+[source,python]
+----
+s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+s.bind(("localhost", 1234))
+
+while True:
+    msg, addr = s.recvfrom(1024)
+    print("messaggio da: ", addr, msg.decode())
+----
+
+.Client
+[source,python]
+----
+s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+
+while True:
+    msg = input("Inserisci messaggio: ")
+    s.sendto(msg.encode(), ("localhost", 1234))
 ----
