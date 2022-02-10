@@ -6,10 +6,10 @@ Le *reti mobili* sono diverse dalle *reti wireless* (le quali sono implementate 
 .Classificazione in base al tipo di mobilità
 * *Access mobility*, sistemi cordless indoor con raggio inferiore ai 500m (come i telefoni), che si connettono alla rete fissa tramite un _access point_
 * *Terminal mobility*, il terminale è in movimento e rimane connesso in una rete di telecomunicazione
-* *Service profile mobility*, il terminale si può connettere non solo alla propria rete, ma anche ad altre reti di telecomunicazione usufruendo della portabilità del profilo su provider diversi
+* *Service profile portability*, il terminale si può connettere non solo alla propria rete, ma anche ad altre reti di telecomunicazione usufruendo della portabilità del profilo su provider diversi
 * *Personal mobility*, in questo sistema è l'utente ad essere riconosciuto dai sistemi di telecomunicazione, di conseguenza potrà utilizzare qualsiasi terminale lui voglia, si parla quindi di _Personal Communication Services_.
 
-Nel caso della _SIM card_ si parla di terminal mobility e può connetersi anche ad altre reti in caso di servce profile mobility.
+Nel caso della _SIM card_ si parla di terminal mobility e può connetersi anche ad altre reti in caso di servce profile portability.
 
 .Classificazione delle reti in base alla tecnologia utilizzata
 * *I generazione*, affermatasi negli anni 80 era in grado di trasmettere solo per via _analogica_ ed in grado di gestire solo la _voce_
