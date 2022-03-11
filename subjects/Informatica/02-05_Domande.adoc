@@ -5,6 +5,10 @@ _Logico_: usato per definire gli attributi delle tabelle poi presenti nel modell
 
 _Fisico_: costruzione del database vero e proprio
 
+.*Operazioni unarie e binarie*
+_Unaria_: che opera solo su una tabella come proiezioni e selezioni
+_Binaria_: che opera su due tabelle come join, unione e intersezione
+
 .*Cos'è l'integrità referenziale?*
 È la proprietà del database che assicura la coerenza tra le relazioni delle tabelle
 
@@ -45,6 +49,8 @@ _atomico_: singola stringa (indivisibile)
 _composto_: una sequenza di stringhe (indirizzo)
 
 _calcolato_: una stringa calcolata (codice fiscale)
+
+_multiplo_: con più attributi (figlio1, figlio2, figlio3)
 
 .*tupla*
 Sono i valori assunti dai campi di una riga di una tabella
