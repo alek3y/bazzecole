@@ -128,3 +128,53 @@ Because of this people are starting to realize how dangerous Facebook is. If you
 - Change what information is shared on Facebook
 - Check your friends activity, so that you can remove tags of yourself if you want to
 - Check for apps permissions
+
+== Streaming media
+*Streaming* is a way to listen to or watch media online without the need of *downloading* it which takes time and space. +
+The first media which demonstrated the potential of streaming was Music, because of its compact _MP3_ format.
+
+A user clicks on a link on a browser and it downloads a metafile. Thanks to this file the browser will start *buffering* the media the user requested and play it on a media player. +
+This process will download parts of the file to save for later in order to play it without waiting times.
+
+The most watched media comes from sites like _YouTube_, that also allow embedding the video on other websites or blogs.
+
+== MP3: a popular audio file format
+*MP3* stands for *MPEG 1 Audio Layer 3* and it's one of the most popular file formats to distribute music online since the mid-1990s. +
+
+By using a *ripper* it's possible to convert the music source to _MP3_ and shrink it by a lot, while retaining CD-like quality.
+You can choose how much information the music will lose during the *ecoding* and *compression* process. +
+By changing the *bit rate* you can also tweak the compression rate, which tells how much data is required for one second of music.
+
+The format stores music in a long string of binary numbers, which are separated into *frames*. At the start of the file there's the *metadata*, which contains information about the title, artist and genre.
+
+These files can be copied into a portable _MP3_ player like the iPod. You can also burn them to a blank CD from your computer.
+
+== Downloading music versus streaming music
+Services like Amazon, Google Play or iTunes allow you to do save music on your device, which lets you listen to it without an active Internet connection. +
+This however requires you to pay a *fee* for each song or album you download.
+
+Streaming is different because you don't own the tracks and you have to use the WiFi or mobile data. Most services offer a free option with ads, otherwise you can pay and store music for offline listening too. +
+They let you discover new and interesting music without having to pay too much for each track.
+
+== Online gaming
+One of the most enjoyable things to do with a computer network is to play *online games*. There are many ways to play them, from free games on the Internet to downloadable and boxed games for PCs and consoles.
+
+*Single-player* and *multiplayer* games are the two main types of games. +
+Most games now have an online element, which allows players to team up, fight against or simply chat with each other.
+
+Many people believe online games represent a world of violence, and are usually blamed for things like failing grades at school or even cause acts of extreme violence. +
+Research however, has shown that playing online games can be beneficial for your brain and they can have positive effects on people's social life.
+
+Today, online gaming can be more than a hobby. There are now professional gamers (referred to as *pro gamers*) that turned gaming into a profession.
+This includes competitions for all sorts of games which offer prizes in large sums of money.
+
+== What is podcasting?
+Not only did portable media players change the way we buy and listen to music, but also the way we listen to radio, via a technique called *podcasting*.
+The word is a combination of "iPod" and "broadcast", because Apple made it easy to listen to them on the iPod.
+With podcasts, anyone can create their own radio programme, and then people can subscribe to it to download it automatically on their iPods.
+
+At first, it was more like a personal blog, but then the commercial world caught on. Today there are a lot of podcasts, ranging from people creating them in their living rooms to professional brodcasts from traditional radio stations. +
+The recordings are saved in _MP3_ and then uploaded to a web server so that the _RSS feed_ can be created. This file can be edited manually or it can be automated by one of the many *podcast hosting sites*. These sites are useful when a person doesn't want to maintain their own server.
+
+Subscribing to a podcast is a matter of downloading an _RSS reader_ and pasting the podcast URL. +
+It's also possible to create a video podcast but that naturally requires more effort and equipment.
