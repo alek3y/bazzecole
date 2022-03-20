@@ -214,3 +214,15 @@ Each block of the chain is verified with the process of *mining* through strict 
 Changing one block would invalidate these rules for all the subsequent blocks.
 
 Its value fluctuates too much for a stable currency, making it a dangerous investment.
+
+== Cloud computing
+Cloud computing applies to both individuals and businesses, the cloud architecture consists of two sections: *front-end* which refers to the application of the client computer's, and the *back-end* which refers to the cloud itself. +
+Cloud services offer data duplication,  *backups* on various virtual servers and permits the staff to access files remotely and *scalability* meaning that you can scale up or down according to your requirements. +
+Another benefit is that cloud systems are maintained externally so there are no costs with keeping everything up to date, also there are no costs associated to buying physical machines. +
+The cloud computing business model is referred as utility computing because it turns computing into a utility, nowadays the largest providers is Amazon with *AWS*.
+
+== Cloud computing concerns
+The biggest concerns are *security* and *privacy*. +
+Most people are worried about storing data in machines they don't physically own because they must trust the providers. +
+A data breach however can expose sensitive customer information, so the most efficient way to protect data is to use *multi-factor authentication*.
+Another issue concerns the possibility of interrupted connections.
