@@ -3,7 +3,7 @@
 == Vita
 
 Italo Svevo, cui nome reale era Ettore Schmitz nacque a Trieste (in Friuli) nel 1861. Deriva il suo nome d'arte per il legame con l'Italia (Italo) e i legami con la Germania (Svevo, gli svevi erano una dinastia tedesca del Medioevo). +
-Sin da giovane scriveva, per un giornale, delle recensioni teatrali in ambito letterario e filosofico, poi passa a scrivere dei romanzi che non hanno molto successo, ma dopo aver conosciuto James joyce (che allora insegnava inglese a Trieste) si ispirò per scrivere il suo terzo romanzo, "La coscienza di Zeno", che ottenne un gran successo. +
+Sin da giovane scriveva, per un giornale, delle recensioni teatrali in ambito letterario e filosofico, poi passa a scrivere dei romanzi che non hanno molto successo, ma dopo aver conosciuto James Joyce (che allora insegnava inglese a Trieste) si ispirò per scrivere il suo terzo romanzo, "La coscienza di Zeno", che ottenne un gran successo. +
 Sfortunatamente morì 5 anni dopo la sua pubblicazione in un incidente stradale (1928).
 
 == Opere
@@ -15,13 +15,15 @@ Dato il suo carattere da vigliacco e indeciso, non riesce ad affrontare la situa
 
 * *"Senilità"* secondo romanzo che narra la storia di Emilio Brentani che si innamora di questa ragazza molto scaltra, Angiolina. Emilio convito che sia una ragazza per bene, viene deluso quando scopre che lei lo tradisce con il suo migliore amico. Dopo averlo scoperto non riesce a reagire e si abbandona a se stesso (significato di senilità) nella propria casa. 
 
-* Il terzo e più importante romanzo è *"La coscienza di Zeno"*, è diviso in 8 capitoli in cui il personaggio principale, Zeno Cosini che, con l'obbiettivo di smettere di fumare, si rivolge ad uno psicanalista il quale chiede a Zeno di scrivere un diario con tutti i fatti più essenziali della sua vita. Tutto il romanzo si basa su una lunga analisi introspettiva dei Zeno, in cui vengono raccontati tutti i fatti che gli sono accaduti come lui ricorda. +
-Il vero protagonista dell'opera in realtà è la malattia fittizia che porta Zeno a creare continuamente delle giustificazioni pur di non prendere delle decisioni importanti (ad esempio il continuo rinvio nello smettere di fumare).
+* Il terzo e più importante romanzo è *"La coscienza di Zeno"*, è diviso in 8 capitoli in cui il personaggio principale, Zeno Cosini che, con l'obbiettivo di smettere di fumare, si rivolge ad uno psicanalista  (Dottor S.) il quale chiede a Zeno di scrivere un diario con tutti i fatti più essenziali della sua vita, con lo scopo di analizzarsi e vincere le proprie fissazioni. Tutto il romanzo si basa su una lunga analisi introspettiva dei Zeno, in cui vengono raccontati tutti i fatti che gli sono accaduti come lui ricorda (la prima sigaretta, i rapporti instabili con il padre, il suo matrimonio, ecc...). +
+Il vero protagonista dell'opera in realtà è la malattia fittizia che porta Zeno a creare continuamente delle giustificazioni pur di non prendere delle decisioni importanti (ad esempio il continuo rinvio nello smettere di fumare). Alla fine Zeno si convince di essere guarito, e comprende che la malattia non era soltanto sua ma apparteneva alla vita in sè. +
+Il romanzo termina con un pensiero finale di Zeno in cui dice che l'umanità si degraderà sempre di più fino a che qualche pazzo riuscirà a distruggere il mondo intero.
 
 == Poetica
+
 In questi romanzi troviamo la figura *dell'inetto* rappresentata da Alfonso, Emilio e Zeno, cioè una persona perennemente indecisa e che non sa cogliere le occasioni della vita o prendere delle decisioni importanti.
 
 Una caratteristica che contraddistigue Italo Svevo da altri autori consiste nel dare maggiore *spazio allo studio dei personaggi* piuttosto che alla descrizione di fatti o ambienti. I suoi personaggi continuano a lottare contro se stessi e Svevo cerca di mostrare ciò facendo delle analisi psicologiche dei personaggi, rappresentando tutte le loro contraddizioni interiori. +
 I suoi personaggi rappresentano anche la società in cui vive l'autore, cioè *la crisi del positivismo* (il decadentismo) che non rappresenta un'arte povera ma rappresenta *l'arte in un periodo di crisi della società*.
 
-Anche il linguaggio di Svevo è molto particolare: è una lingua molto immediata che sembra quasi parlata che serve a rappresentare le riflessioni dei personaggi. L'utilizzo di questo linguaggio a fatto si che "La coscienza di Zeno" si definisca come il primo romanzo moderno della letteratura italiana.
+Anche il linguaggio di Svevo è molto particolare: è una lingua molto immediata che sembra quasi parlata che serve a rappresentare le riflessioni dei personaggi. L'utilizzo di questo linguaggio a fatto si che "La coscienza di Zeno" si definisca come il primo romanzo moderno della letteratura italiana. Inoltre in quel romanzo Svevo fa un pensante uso di *flashback* e salti temporali, proprio per rappresentare i ricordi che sono spezzettati e non in ordine cronologico.
