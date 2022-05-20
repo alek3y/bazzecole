@@ -1,26 +1,32 @@
-SRCDIR := subjects
-OUTDIR := build
+SRCDIR = subjects
+DESTDIR = build
 
-COMPILER := asciidoctor-pdf
-THEME := themes/custom.yml
-FONTSDIR := fonts
-OPTS := -a pdf-theme=$(THEME) -a pdf-fontsdir=$(FONTSDIR)
+COMPILER = pandoc
+FONTSDIR = fonts
+COLOR = darkgray
+OPTS = --pdf-engine=xelatex
+OPTS += -V "geometry:margin=2cm" -V "linestretch:1.2"
+OPTS += -V "fontsize:11pt" -V "mainfont:notosans-regular"
+OPTS += -V "mainfontoptions:Path=$(FONTSDIR)/, \
+	BoldFont=notosans-bold, \
+	ItalicFont=notosans-italic, \
+	BoldItalicFont=notosans-bold_italic"
 
-all:
-	for path in $(SRCDIR)/*; do \
-		subject=$$(basename $$path); \
-		$(COMPILER) $(OPTS) "$$path"/*.adoc -D "$(OUTDIR)/$$subject"; \
-	done
+SRCS = $(wildcard $(SRCDIR)/*/*.md)
+PDFS = $(patsubst $(SRCDIR)/%.md,$(DESTDIR)/%.pdf,$(SRCS))
 
-zip: all
-	cd "$(OUTDIR)" && \
-	for subject in *; do \
-		if [[ -d "$$subject" ]]; then \
-			cd "$$subject"; \
-			zip "../$$subject.zip" *; \
-			cd ..; \
-		fi; \
-	done
+ZIPS = $(patsubst %,%.zip,$(filter-out %.zip,$(wildcard $(DESTDIR)/*)))
+
+all: $(PDFS)
+
+$(PDFS): $(DESTDIR)/%.pdf: $(SRCDIR)/%.md
+	mkdir -p $(shell dirname "$@")
+	echo "\color{$(COLOR)}" | cat - "$<" | $(COMPILER) $(OPTS) -o "$@"
+
+zip: $(ZIPS)
+
+$(ZIPS): $(DESTDIR)/%.zip: $(DESTDIR)/%
+	cd $(shell dirname "$<") && zip -r ../"$@" $(shell basename "$<")
 
 clean:
-	rm -r "$(OUTDIR)"
+	rm -r $(DESTDIR)
