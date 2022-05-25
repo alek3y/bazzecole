@@ -87,7 +87,7 @@ Ci fu anche la Pace di Saint-Germain con l'Austria che vietava la fusione con la
 
 ### 1. Cosa accade nel 1929
 ### 2. Chi era il presidente USA
-### 3. Come escono gli Statu Uniti dalla crisi?
+### 3. Come escono gli Stati Uniti dalla crisi?
 
 ## Seconda guerra mondiale
 
@@ -100,16 +100,75 @@ Ci fu anche la Pace di Saint-Germain con l'Austria che vietava la fusione con la
 ### 7. partiti antifascisti
 ### 8. Conclusione della guerra in Giappone e in Italia
 ### 9. Trattati di pace
-### 10. Situazione italiana alla fine della guerra
-### 11. Chi governa in Italia
-### 12. Cosa accade il 2 giugno del 1946
-### 13. Quando entra in vigore la costituzione
-### 14. Primo parlamento italiano
-### 15. Che governi ci sono dal 1948 al 1953
-### 16. Il boom economico
+
+## Nascita della repubblica
+
+### 1. Situazione italiana alla fine della guerra
+
+Alla fine della guerra e dopo la scomparsa del partito Fascista la situazione politica in Italia era molto confusa e divisa tra centro-nord, in cui dominava la volontà di cambiamento, e sud in cui prevalevano le forze conservatrici.
+
+### 2. Chi governa in Italia
+
+In questo momento a sinistra c'erano i comunisti (PCI, Partito Comunista Italiano), i socialisti che presero il nome di PSIUP (Partito Sociale Italiano di Unità Proletaria).
+Accanto a questi partiti si forma un nuovo partito: il Partito d'Azione (PdA). Infine il partito repubblicano (PRI). \
+Al centro c'era la Democrazia Cristiana (DC). \
+Di destra c'era invece il Partito Liberale Italiano (PLI) ispirato alla politica di Giolitti.
+
+La sinistra era molto sostenuta dal popolo perchè i partiti presenti sono quelli che si sono più opposti al Fascismo.
+La destra era sostenuta dalle classi sociali più privilegiate, dagli americani a anche in parte dalla chiesa.
+
+Dopo il 2 giugno 1946 il potere è nelle mani della democrazia cristiana e il presidente della Repubblica è Enrico De Nicola. 
+
+### 3. Cosa accade il 2 giugno del 1946
+
+Ci furono due grandi consultazioni popolari che si tennero il 2 giugno del 1946: \
+La prima è un referendum in cui si decideva se l'Italia doveva essere una Monarchia o una Repubblica. La votazione veniva data a tutti gli italiani (anche le donne per la prima volta). Il 54% votò Repubblica e il 46% Monarchia.\
+La seconda consultazione puntava a eleggere i deputati dell'assemblea costituente (formata da coloro il cui compito era elaborare la nuova Costituzione) che fissava i principi di libertà e di democrazia.
+
+### 4. Quando entra in vigore la costituzione
+
+La Costituzione entra in vigore il 1 Gennaio 1948.
+Una delle più importanti disposizioni della Costituzione vietava la riformazione del partito Fascista in ogni forma.
+
+### 5. Primo parlamento italiano
+
+Nel 1948 ci furono delle elezioni per eleggiere il primo parlamento della nuova Repubblica, in queste elezioni era presente una forte contraddizione tra i cattolici (centro) e la sinistra. Grazie al fondamentale aiuto del papa (Pio XII) la democrazia cristiana riuscì a vincere.
+
+### 5. Che governi ci sono dal 1948 al 1953
+
+Dal 1948 al 1953 si succedettero tutti governi di centro con al comando Alcide De Gasperi, sostenuti dalla chiesa, dagli Stati Uniti e dagli industriali.
+
+### 6. Il boom economico
+
+Dopo la morte di De Gasperi (1954) In Italia ci fu un periodo di prosperità economica, definito Miracolo Economico, che va da 1954 al 1963.
+In questo periodo l'Italia diventò un paese industrializzato e moderno. Furono costruite molte strade, nasce l'ENI (Ente Nazionale Idrocarburi).
+Cresendo il numero di industrie cresce anche il numero di operai e quindi la disoccupazione diminuisce.
+
+Vennero fatte delle riforme al sistema scolastico: prima della riforma un bambino che terminava le elementari poteva scegliere tra la scuola media e la scuola per l'avviamento al lavoro, la prima ti preparava per proseguire gli studi (ma solo i privilegiati potevano andarci) mentre la seconda ti preparava al mondo del lavoro.
+Con la riforma si uniscono questi due indirizzi per formarne uno solo obbligatorio.
 
 ## Guerra fredda
 
 ### 1. Cosa si intende per guerra fredda
+
+Per guerra fredda si intende un clima di tensione tra Stati Uniti e Russia dopo la seconda guerra mondiale fino agli anni novanta, viene definita guerra per questo clima di forte tensioni, e fredda perchè non vengono utilizzate le armi.
+
 ### 2. Cosa accade in questo periodo
+
+Dopo la seconda guerra mondiale le potenze vincitrici non furono d'accordo sulle politiche da adottare e sul futuro dell'europa una volta scomparsa del tutto la potenza tedesca.
+Con questi presupposti nel febbraio 1945 Roosevelt, churchill e Stalin (capi di USA, Regno Unito e Russia) si incontrano nella conferenza di Yalta, in cui viene divisa la Germania in 4 zone ognuna controllata da un vincitore.
+Da questa conferenza nasce anche l'ONU (Organizzazione delle Nazioni Unite) con lo scopo di mantenere la pace e la collaborazione tra i popoli.
+Nonostante questi accordi la tensione tra le due potenze (Stati Uniti e Russia) cresce sempre di più, infatti si parla proprio di Guerra Fredda.
+Gli Stati Uniti mettono in atto il Piano Marshall che consisteva in degli aiuti, economici e di prima necessità, ai paesi occidentali europei per favorire la loro crescita dopo la guerra. Questo con il pensiero che solo un'Europa più industrializzata poteva poi acquistare i prodotti degli Stati Uniti. Un altro obiettivo era quello di favorire i partiti anti-comunisti, cercando di convincerli che il capitalismo americano era migliore.
+La Germania venne divisa in 2: 
+Nasce la Repubblica federale Tedesca sotto il controllo americano.
+Nella parte controllata dai sovietici nasce invece la Repubblica democratica tedesca.
+Nel 1949 nacque una nuova alleanza militare, la NATO che collega molti stati europei agli Stati Uniti che, in caso di attacco, sarebbero intervenuti in difesa degli americani. 
+
 ### 3. Quali sono le conseguenze
+
+Le conseguenze furono il crollo dell'URSS che venne vista dall'occidente come il fallimento dell'ideologia comunista. \
+L'espansione della NATO. \
+Nei paesi est-europa vennero concesse della libertà che prima non erano possibili. \
+Molti paesi sotto il controllo dell'URSS dovettero cambiare il proprio sistema economico, passando da un economia controllata dallo stato ad una privata, questo cambio fu molto improvviso e causo un PIL dimezzato e una forte inflazione. \
+La competizione in campo tecnologico soprattutto militare e aerospaziale, anche internet si sviluppo in questo periodo come ARPANET.
