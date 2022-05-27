@@ -10,8 +10,8 @@ $$\int f(x) dx$$
 ## Primitiva
 
 La funzione primitiva $F(x)$ di un integrale è il risultato dell'integrazione, che derivata restituisce l'_integranda_.
-$$D(F(x)) = f(x)$$
 $$F(x) = \int f(x) dx$$
+$$\frac{\mathrm{d}}{\mathrm{d}x}F(x) = f(x)$$
 
 ## Metodi di risoluzione
 
@@ -80,3 +80,21 @@ Dove i fattori da scegliere sono:
 
 - $f(x)$ o **fattore finito**, che deve essere _facilmente derivabile_
 - $g'(x) dx$ o **fattore differenziale**, per cui $g'(x)$ deve essere _facilmente integrabile_
+
+# Definiti
+
+L'integrale definito di una funzione continua all'interno dell'intervallo $\left[a, b\right]$ esprime l'area sottesa alla funzione.
+
+$$\int_a^b f(x) dx$$
+
+## Proprietà
+
+1. Di **linearità**: \
+$$\int_a^b \left(\alpha f(x) + \beta g(x)\right) dx = \alpha \int_a^b f(x) dx + \beta \int_a^b g(x) dx$$ \
+con $\alpha, \beta \in \mathbb{R}$.
+2. Di **additività**: \
+$$\int_a^c f(x) dx = \int_a^b f(x) dx + \int_b^c f(x) dx$$
+3. Del **teorema della media**: \
+![Rettangolo la cui area equivale all'integrale](https://i.ibb.co/Kqv39kc/image.png) \
+L'area sottesa di una funzione $f(x)$ è uguale all'area del rettangolo che ha per base $b-a$ e altezza $f(z)$ (chiamato _valore medio_) ricavabile con: \
+$$f(z) = \frac{\int_a^b f(x) dx}{b - a}$$
