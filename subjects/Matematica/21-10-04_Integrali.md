@@ -9,7 +9,9 @@ $$\int f(x) dx$$
 
 ## Primitiva
 
-La funzione primitiva $F(x)$ di un integrale è il risultato dell'integrazione, che derivata restituisce l'_integranda_.
+L'integrale indefinito restituisce una **famiglia di primitive** con $c \in \mathbb{R}$, in cui la **primitiva fondamentale** ha $c = 0$.
+
+La primitiva $F(x)$ di un integrale è il risultato dell'integrazione, che derivata restituisce l'_integranda_.
 $$F(x) = \int f(x) dx$$
 $$\frac{\mathrm{d}}{\mathrm{d}x}F(x) = f(x)$$
 
@@ -83,7 +85,7 @@ Dove i fattori da scegliere sono:
 
 # Definiti
 
-L'integrale definito di una funzione continua all'interno dell'intervallo $\left[a, b\right]$ esprime l'area sottesa alla funzione.
+L'integrale definito di una funzione continua all'interno dell'intervallo $\left[a, b\right]$ esprime l'area sottesa al grafico di una funzione, dove $a$ è l'_estremo inferiore_, mentre $b$ è l'_estremo superiore_.
 
 $$\int_a^b f(x) dx$$
 
@@ -96,5 +98,48 @@ con $\alpha, \beta \in \mathbb{R}$.
 $$\int_a^c f(x) dx = \int_a^b f(x) dx + \int_b^c f(x) dx$$
 3. Del **teorema della media**: \
 ![Rettangolo la cui area equivale all'integrale](https://i.ibb.co/Kqv39kc/image.png) \
-L'area sottesa di una funzione $f(x)$ è uguale all'area del rettangolo che ha per base $b-a$ e altezza $f(z)$ (chiamato _valore medio_) ricavabile con: \
+L'area sottesa al grafico di una funzione $f(x)$ è uguale all'area del rettangolo che ha per base $b-a$ e altezza $f(z)$ (chiamato _valore medio_) ricavabile con: \
 $$f(z) = \frac{\int_a^b f(x) dx}{b - a}$$
+
+## Teorema fondamentale del calcolo integrale
+
+Questo teorema introduce la formula di **Leibniz-Newton**, che serve a ricavare l'area sottesa al grafico di una funzione.
+
+$$\int_a^b f(x) dx = \varphi(b) - \varphi(a)$$
+
+dove $\varphi(b)$ e $\varphi(a)$ sono valori che provengono dalla sostituzione degli estremi $b$ ed $a$ nella _primitiva fondamentale_.
+
+### Esempio
+
+$$
+\int_1^2 \left(x^2 + 2\right) dx =
+\left[ \frac{x^3}{3} + 2x \right]_1^2 =
+\frac{2^3}{3} + 2 \cdot 2 - \left(\frac{1^3}{3} + 2\right) =
+\frac{13}{3}
+$$
+
+## Area tra due funzioni
+
+Avendo due funzioni $f(x)$ e $g(x)$ è possibile trovare l'area compresa tra i grafici delle due funzioni facendo la differenza dell'area sottesa al grafico.
+
+$$\int_a^b \left(f(x) - g(x)\right) dx$$
+
+con $f(x) \geq g(x)$.
+
+![Area tra due funzioni di cui una negativa](https://i.ibb.co/rQpkVrV/image.png)
+
+Nel caso in cui una delle due funzioni sia negativa basterà traslarle entrambe per un valore $h$ in modo da renderle positive:
+
+$$\int_a^b \left( \left(f(x) + h\right) - \left(g(x) + h\right) \right) dx$$
+
+dove $h$ verrà semplificato, ottenendo quindi la formula iniziale.
+
+## Volume di un solido di rotazione
+
+Facendo ruotare la figura che corrisponde all'area sottesa al grafico attorno all'asse delle ascisse otterremo un **solido di rotazione**:
+
+![Solido di rotazione](https://i.ibb.co/DKvFbd7/image.png)
+
+Il cui volume corrisponde a:
+
+$$V = \pi \cdot \int_a^b \left(f(x)\right)^2 dx$$
