@@ -2,9 +2,10 @@ SRCDIR = subjects
 DESTDIR = build
 
 COMPILER = pandoc
+HEADER = header.tex
 FONTSDIR = fonts
-COLOR = darkgray
-OPTS = --pdf-engine=xelatex
+OPTS = -f markdown-implicit_figures
+OPTS += --pdf-engine=xelatex -B $(HEADER)
 OPTS += -V "geometry:margin=2cm" -V "linestretch:1.2"
 OPTS += -V "fontsize:11pt" -V "mainfont:notosans-regular"
 OPTS += -V "mainfontoptions:Path=$(FONTSDIR)/, \
@@ -21,7 +22,7 @@ all: $(PDFS)
 
 $(PDFS): $(DESTDIR)/%.pdf: $(SRCDIR)/%.md
 	mkdir -p $(shell dirname "$@")
-	echo "\color{$(COLOR)}" | cat - "$<" | $(COMPILER) $(OPTS) -o "$@"
+	$(COMPILER) $(OPTS) "$<" -o "$@"
 
 zip: $(ZIPS)
 
