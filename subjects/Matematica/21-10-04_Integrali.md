@@ -85,7 +85,7 @@ Dove i fattori da scegliere sono:
 
 # Definiti
 
-L'integrale definito di una funzione continua all'interno dell'intervallo $\left[a, b\right]$ esprime l'area sottesa al grafico di una funzione, dove $a$ è l'_estremo inferiore_, mentre $b$ è l'_estremo superiore_.
+L'integrale definito di una funzione continua all'interno dell'intervallo $\left[a, b\right]$ esprime l'area sottesa al grafico di una funzione all'interno dell'intervallo descritto dagli **estremi di integrazione** ($a$ è l'_estremo inferiore_, mentre $b$ è l'_estremo superiore_).
 
 $$\int_a^b f(x) dx$$
 
@@ -97,7 +97,7 @@ con $\alpha, \beta \in \mathbb{R}$.
 2. Di **additività**: \
 $$\int_a^c f(x) dx = \int_a^b f(x) dx + \int_b^c f(x) dx$$
 3. Del **teorema della media**: \
-![Rettangolo la cui area equivale all'integrale](https://i.ibb.co/Kqv39kc/image.png) \
+![Rettangolo la cui area equivale all'integrale](https://i.ibb.co/gytW11R/image.png) \
 L'area sottesa al grafico di una funzione $f(x)$ è uguale all'area del rettangolo che ha per base $b-a$ e altezza $f(z)$ (chiamato _valore medio_) ricavabile con: \
 $$f(z) = \frac{\int_a^b f(x) dx}{b - a}$$
 
@@ -105,12 +105,16 @@ $$f(z) = \frac{\int_a^b f(x) dx}{b - a}$$
 
 Questo teorema introduce la formula di **Leibniz-Newton**, che serve a ricavare l'area sottesa al grafico di una funzione.
 
+$$\varphi(t) = \int_a^t f(x) dx + c$$
+$$
+\varphi(a) = \int_a^a f(x) dx + c = c, \hspace{1em}
+\varphi(b) = \int_a^b f(x) dx + c = \int_a^b f(x) dx + \varphi(a)
+$$
 $$\int_a^b f(x) dx = \varphi(b) - \varphi(a)$$
 
 dove $\varphi(b)$ e $\varphi(a)$ sono valori che provengono dalla sostituzione degli estremi $b$ ed $a$ nella _primitiva fondamentale_.
 
-### Esempio
-
+Un esempio:
 $$
 \int_1^2 \left(x^2 + 2\right) dx =
 \left[ \frac{x^3}{3} + 2x \right]_1^2 =
@@ -122,24 +126,37 @@ $$
 
 Avendo due funzioni $f(x)$ e $g(x)$ è possibile trovare l'area compresa tra i grafici delle due funzioni facendo la differenza dell'area sottesa al grafico.
 
-$$\int_a^b \left(f(x) - g(x)\right) dx$$
-
+$$\int_{a}^b \left(f(x) - g(x)\right) dx$$
 con $f(x) \geq g(x)$.
 
 ![Area tra due funzioni di cui una negativa](https://i.ibb.co/rQpkVrV/image.png)
 
 Nel caso in cui una delle due funzioni sia negativa basterà traslarle entrambe per un valore $h$ in modo da renderle positive:
-
 $$\int_a^b \left( \left(f(x) + h\right) - \left(g(x) + h\right) \right) dx$$
-
 dove $h$ verrà semplificato, ottenendo quindi la formula iniziale.
 
 ## Volume di un solido di rotazione
 
 Facendo ruotare la figura che corrisponde all'area sottesa al grafico attorno all'asse delle ascisse otterremo un **solido di rotazione**:
 
-![Solido di rotazione](https://i.ibb.co/DKvFbd7/image.png)
+![Solido di rotazione](https://i.ibb.co/SKXGq9b/image.png)
 
-Il cui volume corrisponde a:
-
+il cui volume corrisponde a:
 $$V = \pi \cdot \int_a^b \left(f(x)\right)^2 dx$$
+
+### Integrali impropri
+
+Un integrale improprio è definito tale quando contiene dei **punti di discontinuità** (cioè punti in cui la funzione non è continua), oppure uno degli estremi è **illimitato**.
+
+Per cui, quando la funzione è **discontinua** su:
+
+- l'estremo $a$: \
+$$\int_a^b f(x) dx = \lim_{z \to a^+}\int_z^b f(x) dx$$
+- l'estremo $b$: \
+$$\int_a^b f(x) dx = \lim_{z \to b^-}\int_a^z f(x) dx$$
+- un punto $c$ all'interno dell'intervallo $\left[a, b\right]$: \
+$$\int_a^b f(x) dx = \lim_{z \to c^-}\int_a^z f(x) dx + \lim_{z \to c^+}\int_z^b f(x) dx$$
+
+Mentre, quando uno degli estremi è illimitato:
+$$\int_a^{+\infty} f(x) dx = \lim_{z \to +\infty} \int_a^z f(x) dx$$
+che può **convergere** quando il risultato è _finito_, **divergere** quando è _infinito_ ed è **indeterminato** quando non è risolvibile.
