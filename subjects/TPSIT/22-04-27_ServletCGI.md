@@ -21,10 +21,10 @@ Le applicazioni che utilizzano questo standard possono essere **scritte in quals
 Per **ogni richiesta** verrà generato **un processo**, inoltre possiamo definire questa tecnica **non portabile**, in quanto può differenziare in base al sistema operativo del server.
 
 Esempio di **richiesta/risposta**:
-1) Il **client** invia al server la richiesta di eseguire un programma CGI con dei parametri attraverso HTTP
-2) Il **server** attraverso l'interfaccia CGI funge da collegamento al programma indicato dal client, passandogli i parametri
-3) Il **programma CGI** ritorna al server i dati elaborati sotto forma di pagina HTML
-4) Il **server** invia al client i dati elaborati tramite HTTP
+1. Il **client** invia al server la richiesta di eseguire un programma CGI con dei parametri attraverso HTTP
+2. Il **server** attraverso l'interfaccia CGI funge da collegamento al programma indicato dal client, passandogli i parametri
+3. Il **programma CGI** ritorna al server i dati elaborati sotto forma di pagina HTML
+4. Il **server** invia al client i dati elaborati tramite HTTP
 
 ### Servlet
 
@@ -33,8 +33,8 @@ A differenza del modello CGI, le servlet utilizzano **java** dove ogni istanza �
 L'ambiente di esecuzione delle servlet viene chiamato **container**, esso ne gestisce tutto il loro ciclo di vita, comprendendo quindi: la **comunicazione** con i client, la **sicurezza**, il **multithreading**.
 
 Esempio di **richiesta/risposta**:
-1) Il **client** invia una richiesta al web server per usare una servlet
-2) **Se è la prima richiesta** da parte del client allora il server istanzia la servlet
-3) Un **thread viene generato** per far comunicare il client alla servlet e gli viene passata la richiesta dal client
-4) Il **thread-servlet elabora e ritorna** la risposta al server, il quale la invierà al client
+1. Il **client** invia una richiesta al web server per usare una servlet
+2. **Se è la prima richiesta** da parte del client allora il server istanzia la servlet
+3. Un **thread viene generato** per far comunicare il client alla servlet e gli viene passata la richiesta dal client
+4. Il **thread-servlet elabora e ritorna** la risposta al server, il quale la invierà al client
 
