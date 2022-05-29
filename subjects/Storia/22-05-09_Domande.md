@@ -86,20 +86,83 @@ Ci fu anche la Pace di Saint-Germain con l'Austria che vietava la fusione con la
 ## Crisi del 29
 
 ### 1. Cosa accade nel 1929
+
+La prima guerra mondiale era stata molto vantaggiosa economicamente e tecnologicamente per gli Stati Uniti, tanto da farla diventare la prima potenza industriale del mondo. \
+Tra il 1918 e il 1929 l'America visse un periodo di prosperità ma questo periodo nascondeva degli elementi che portarono alla successiva crisi:
+- Le industrie producevano una quantità sempre crescente di merci, ma i salari dei lavoratori restavano troppo bassi perché l'intera popolazione potesse acquistarle.
+- L'agricoltura americana non riusciva più a esportare le stesse quantità di prodotti agricoli in Europa.
+
+Vista la situazione improvvisamente tutti volevano ritirare le proprie azioni in borsa prima che il loro valore crollasse.
+A Wall Street il 24 ottobre 1929 ("giovedì nero") vennero messe all'asta contemporamentente 13 milioni di azioni, di conseguenza il loro valore crollò vertiginosamente. Questo fu l'inizio della crisi chiamata "Grande depressione".
+
 ### 2. Chi era il presidente USA
+
+Il presidente degli Stati Uniti era Roosevelt, in carica dal 1933 a 1945, che riuscì a risolvere la crisi.
+
 ### 3. Come escono gli Stati Uniti dalla crisi?
+
+Gli Stati Uniti riescono a uscire da questa crisi grazie all'intervento di Roosevelt che impone all'economia un nuovo orientamento chiamato **New Deal** il cui obiettivo era quello di rilanciare la produzione incrementando i consumi, e quindi di cambiare il ruolo dello stato nell'ambito economico: ora lo stato si occupava da più vicino dell'economia (per esempio regolando le banche). \
+Roosevelt combattè anche la disocupazione attraverso lavori pubblici, portando le persone ad ottenere potere di acquisto che serviva per far ripartire l'industria.
 
 ## Seconda guerra mondiale
 
 ### 1. Cause della seconda guerra mondiale
+
+La principale causa dello scoppio della seconda guerra mondiale è la volontà di espansione della Germania di Hilter e di conseguenza anche la volontà di espansione di Italia. \
+L'evento che scatenò la guerra fu l'invasione della Polonia occidentale da parte della Germania. Questo porta l'Inghilterra e la Francia a dichiarare guerra alla Germania. \
+La russia non attaccò la Germania per il patto "molotov-ribbentrop" stipulato con la Germania poco prima dell'invasione.
+
 ### 2. Avvenimenti principali (battaglie)
+
+Dopo che fu dichiarata la guerra la germania invase molti paesi tra cui Norvegia, Olanda e Belgio, entrano anche in Francia dividendola in 2 zone. \
+L'Italia entra in guerra il 10 giugno 1940. \
+La Germania attacca l'Inghilterra che però riesce a resistere (battaglia di Inghilterra). \
+L'Italia attacca la Grecia che riuscirà a conquistare solo grazie all'aiuto della Germania. \
+L'Italia perde il suo dominio sull'Etiopia che viene riconquistata dagli inglesi. Inoltre Inghilterra e Francia riescono a liberare gli altri paesi africani conquistati dal regime nazifascista. \
+La Germania decide di invadere l'Unione Sovietica il 22 giugno del 1941. Mosca però, grazie all'arrivo dell'inverno, riuscì a respingere l'attacco tedesco (battaglia di Stalingrado). \
+Nel 7 dicembre 1941 entra in gioco anche il Giappone che con il desiderio di creare il proprio impero conquistando il Pacifico, per cui decise di attaccare gli Stati Uniti, bombardando una base navale statunitense a sorpresa. Questo atto determina l'immediato ingresso in guerra degli Stati Uniti (battaglia delle Midway).
+
 ### 3. Le alleanze tra gli stati
+
+Le alleanze erano Italia, Germania e Giappone (chiamato asse Roma-Berlino-Tokyo) contro Francia, Inghilterra, Stati Uniti e Unione Sovietica.
+
 ### 4. Atteggiamento dell'Italia all'inizio della Guerra
+
+L'Italia inizialmente non aveva intenzione di entrare in guerra, ma quando si rese conto che ormai la Germania stava dominando l'Europa decide di entrare in guerra al suo fianco ottenendo un posto tra i vincitori. \
+Nel 1940 Decide quindi di entrare in guerra dichiarando guerra a Francia e Inghilterra.
+
 ### 5. La caduta del Fascismo
+
+Per fermare il Fascismo in Italia si formò **la resistenza** cioè dei gruppi formati principalmente da comunisti che avevano l'obiettivo di liberare l'Italia dal dominio Fascista. A questo punto iniziarono delle battaglie interne tra resistenza e nazifascisti. \
+Con l'entrata in Guerra di Stati Uniti e Russia il potere nazifascista cominciava ad essere in difficoltà: gli Stati uniti sbarcarono in Sicilia e assieme alla resistenza riuscirono a liberare l'Italia dai Fascisti e il re Vittorio Emanuele III fece imprigionare Mussolini.
+
 ### 6. Attività della resistenza
+
+La resistenza che inizialmente era composta da poche migliaia di persone (soprattutto civili), si espanse a seguito dell'arrivo degli Inglesi in Sicilia: si unirono ex fascisti, soldati liberati, persone ritornate in Italia dopo essere emigrate. \
+Si forma il CLN (Comitato di Liberazione Nazionale) che coordinava le operazioni dei partigiani. Infine si unirono anche gli adolescenti che erano stati obbligati da Mussolini a fare la leva obbligatoria. Al termine delle battaglie i partigiani erano circa 200 mila.
+
 ### 7. partiti antifascisti
+
+I parititi antifasciti erano:
+- Il **CLN** formato durante la seconda guerra mondiale che aveva l'arduo compito di guidare le attività dei partigiani per liberare l'Italia dai nazifascisti.
+- La **Democrazia Cristiana** che oltre a essere a sfavore del Fascismo non voleva nemmeno entrare in guerra. Dopo la fine della seconda guerra mondiale e del dominio Fascista, ottenne molto successo alle elezioni.
+- Il **partito Comunista** che si oppose attivamente contro il fascismo, la maggioranza del partigiani sosteneva il questo partito.
+
+Infine ci furono anche il partito d'Azione, il partito Socialista, e il partito Liberale.
+
 ### 8. Conclusione della guerra in Giappone e in Italia
+
+Sia in Italia che in Giappone la guerra terminò soprattutto grazie all'intervento degli Stati Uniti: \
+L'Italia era molto debole alla fine della guerra dato che aveva subito solo delle sconfitte, quando arrivarono gli Stati Uniti in Italia e Mussolini fu arrestato la Germania si sentì tradita e cominciò l'occupazione del nord-italia e la scarcerazione di Mussolini. \
+Grazie, però, a Stati Uniti e partigiani l'Italia fu liberata e le sconfitte decisive che ottenne la Germania in Russia e in Africa segnarono la fine del nazifascismo.
+
+Il Giappone che stava subendo già delle rivolte interne nei paesi che aveva conquistato ottenne la sconfitta definitiva con le due bombe atomiche sganciate dagli Stati Uniti su Hiroshima e Nagasaki.
+
 ### 9. Trattati di pace
+
+Il 10 febbraio 1947 vengono firmati i **trattati di pace di Parigi** in cui i vincitori (Stati Uniti, Regno Unito, Francia e Unione Sovietica) si accordano con i paesi che avevano perso per ristabilire i confini dei paesi europei. \
+La **Conferenza di Yalta** in cui si concordava la spartizione della Germania tra i vincitori. \
+Il **trattato di San Francisco** in cui il Giappone viene privato di tutti i paese esterni conquistati.
 
 ## Nascita della repubblica
 
