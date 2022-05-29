@@ -16,9 +16,9 @@ Il primo governo viene presieduto da Ferruccio Parri mentre il secondo da Alcide
 
 Durante questo periodo ci furono **due grandi consultazioni popolari** che si tennero il **2 giugno del 1946**:
 
-La prima è un referendum in cui si decideva se l'Italia doveva essere una **Monarchia o una Repubblica**. La votazione veniva data a tutti gli italiani (**anche le donne** per la prima volta). Il 54% votò Repubblica e il 46% Monarchia.
+La prima è un referendum in cui si decideva se l'Italia doveva essere una **Monarchia o una Repubblica**. La votazione veniva data a tutti gli italiani (**anche alle donne** per la prima volta). Il 54% votò Repubblica e il 46% Monarchia.
 
-La seconda consultazione puntava a eleggere i deputati **dell'assemblea costituente** (formata da coloro il cui compito era elaborare la nuova Costituzione) che fissava i principi di libertà e di democrazia. La **Costituzione entra in vigore il 1 Gennaio 1948**. \
+La seconda consultazione puntava ad eleggere i deputati **dell'assemblea costituente** (formata da coloro il cui compito era elaborare la nuova Costituzione) che fissava i principi di libertà e di democrazia. La **Costituzione entra in vigore il 1 Gennaio 1948**. \
 Una delle disposizioni della Costituzione vietava la riformazione del partito Fascista in ogni forma.
 
 Il partito più votato è la Democrazia Cristiana, e il presidente della Repubblica è **Enrico De Nicola**.
@@ -31,8 +31,9 @@ Dal 1948 al 1953 si succedettero tutti governi di centro con al comando Alcide D
 ## Il miracolo economico
 
 Dopo la morte di De Gasperi (1954) In Italia ci fu un periodo di prosperità economica, **il Miracolo economico**, che va da 1954 al 1963. \
-In questo periodo l'Italia diventò un paese industrializzato e moderno, si sviluppa l'industria automobilistica, quella chimica, quella siderurgica, si sviluppano più elettrodomestici, l'abbigliamento. Furono costruite molte strade, nasce l'ENI (Ente Nazionale Idrocarburi). \
+In questo periodo l'Italia diventò un paese industrializzato e moderno, si sviluppa l'industria automobilistica, quella chimica, quella siderurgica, si sviluppano più elettrodomestici e nuovi abbigliamenti. Furono inoltre costruite molte strade e nasce l'ENI (Ente Nazionale Idrocarburi). \
 Cresendo il numero di industrie cresce anche il numero di operai e quindi la disoccupazione diminuisce.
 
-Erano comunque presenti sia immigrati che persone che andavano dal sud al nord per trovare lavoro, queste persone faticavano a parlare in Italiano. Vennero fatte, quindi, delle riforme al sistema scolastico: prima della riforma un bambino che terminava le elementari poteva scegliere tra la **scuola media** e la scuola per **l'avviamento al lavoro**, la prima ti preparava per proseguire gli studi (ma solo i privilegiati potevano andarci) mentre la seconda ti preparava al mondo del lavoro. \
-Con la riforma si uniscono questi due indirizzi per formarne uno solo, perlopiù obbligatorio.
+Erano comunque presenti sia immigrati che persone che andavano dal sud al nord per trovare lavoro, queste persone faticavano a parlare in italiano. \
+Vennero fatte, quindi, delle riforme al sistema scolastico: prima della riforma un bambino che terminava le elementari poteva scegliere tra la **scuola media** e la scuola per **l'avviamento al lavoro**, la prima ti preparava per proseguire gli studi (ma solo i privilegiati potevano andarci) mentre la seconda ti preparava al mondo del lavoro. \
+Con la riforma si uniscono questi due indirizzi per formarne uno solo obbligatorio.

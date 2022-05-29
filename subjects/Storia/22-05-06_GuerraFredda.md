@@ -1,10 +1,10 @@
 # La Guerra fredda
 
-Dopo la seconda guerra mondiale le potenze vincitrici non furono d'accordo sulle politiche da adottare e sul futuro dell'europa una volta scomparsa del tutto la potenza tedesca. \
+Dopo la seconda guerra mondiale le potenze vincitrici non furono d'accordo sulle politiche da adottare e sul futuro dell'Europa una volta scomparsa del tutto la potenza tedesca. \
 Con questi presupposti nel febbraio 1945 Roosevelt, churchill e Stalin si incontrano nella **conferenza di Yalta**: questo accordo prevedeva la ripartizione della Germania in 4 zone, controllate da Francia, USA, Russia e Regno Unito. Stabiliva inoltre che i popoli sottoposti all'oppressione Nazi-Fascista si sarebberò gestiti da soli con delle libere elezioni. \
-Nonostante questo le popolazioni orientali d'Europa subirono molte influenze dalla Russia e le popolazioni occidentali ne subirono dagli Stati Uniti. \
+Nonostante ciò le popolazioni orientali d'Europa subirono molte influenze dalla Russia e le popolazioni occidentali ne subirono dagli Stati Uniti. \
 Da questa conferenza nasce anche l'**ONU** (Organizzazione delle Nazioni Unite) con lo scopo di mantenere la pace e la collaborazione tra i popoli. \
-Nonostante questi accordi la tensione tra le due potenze (Stati Uniti e Russia) cresce sempre di più, si parla proprio di **Guerra Fredda** perchè non vengono usate le armi ma c'è un clima di diffidenza reciproca altissima: Gli stati Uniti dopo la guerra si erano arricchiti, mentre la Russia che non ne era uscita molto bene dalla guerra cercava di influenzare tutti gli stati confinanti, cercando così di espandersi.
+Nonostante questi accordi la tensione tra le due potenze (Stati Uniti e Russia) cresce sempre di più, si parla proprio di **Guerra Fredda** perchè non vengono usate le armi ma c'è un clima di diffidenza reciproca altissima: Gli stati Uniti dopo la guerra si erano arricchiti, mentre la Russia che non ne era uscita altrettanto bene cercava di influenzare tutti gli stati confinanti, provando così ad espandersi.
 
 Gli Stati Uniti hanno paura di un attacco in Europa (ritenendo l'esercito russo uno dei più forti al mondo) d'altra parte la Russia ha paura di un bombardamento da parte degli Stati Uniti.
 
