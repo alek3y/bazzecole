@@ -9,7 +9,7 @@ $$\int f(x) dx$$
 
 ## Primitiva
 
-L'integrale indefinito restituisce una **famiglia di primitive** con $c \in \mathbb{R}$, in cui la **primitiva fondamentale** ha $c = 0$.
+L'integrale indefinito restituisce una **famiglia di primitive** (funzioni) con $c \in \mathbb{R}$, in cui la **primitiva fondamentale** ha $c = 0$.
 
 La primitiva $F(x)$ di un integrale è il risultato dell'integrazione, che derivata restituisce l'_integranda_.
 $$F(x) = \int f(x) dx$$
@@ -103,16 +103,11 @@ $$f(z) = \frac{\int_a^b f(x) dx}{b - a}$$
 
 ## Teorema fondamentale del calcolo integrale
 
-Questo teorema introduce la formula di **Leibniz-Newton**, che serve a ricavare l'area sottesa al grafico di una funzione.
+Questo teorema introduce la formula di **Leibniz-Newton**, che collega gli integrali indefiniti con quelli definiti, producendo un numero che corrisponde all'area **con segno** sottesa al grafico di una funzione.
 
-$$\varphi(t) = \int_a^t f(x) dx + c$$
-$$
-\varphi(a) = \int_a^a f(x) dx + c = c, \hspace{1em}
-\varphi(b) = \int_a^b f(x) dx + c = \int_a^b f(x) dx + \varphi(a)
-$$
-$$\int_a^b f(x) dx = \varphi(b) - \varphi(a)$$
+$$\int_a^b f(x) dx = F(b) - F(a)$$
 
-dove $\varphi(b)$ e $\varphi(a)$ sono valori che provengono dalla sostituzione degli estremi $b$ ed $a$ nella _primitiva fondamentale_.
+dove $F(b)$ e $F(a)$ sono valori che provengono dalla sostituzione degli estremi $b$ ed $a$ nella funzione _primitiva fondamentale_.
 
 Un esempio:
 $$
