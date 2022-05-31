@@ -20,9 +20,10 @@ $$\frac{\mathrm{d}}{\mathrm{d}x}F(x) = f(x)$$
 I principali metodi di integrazione sono:
 
 1. Integrali immediati
-2. Funzioni razionali fratte
-3. Sostituzione
-4. Integrazione per parti
+2. Funzioni composte
+3. Funzioni razionali fratte
+4. Sostituzione
+5. Integrazione per parti
 
 ### Integrali immediati
 
@@ -54,9 +55,24 @@ $$
 \int \frac{1}{1+x^2} dx = \arctan{x} + c
 $$
 
+### Funzione composta
+
+Una funzione composta è una funzione che ha come argomento un'altra funzione.
+
+$$\int f'(g(x)) \cdot g'(x) dx = f(g(x)) + c$$
+visto che la derivata della funzione composta $f(g(x))$ è l'integranda.
+
+Un esempio:
+$$
+\int \frac{x + 1}{x^2 + 2x} dx =
+\frac{1}{2} \int 2 \cdot \frac{x + 1}{x^2 + 2x} dx =
+\frac{1}{2} \int \frac{2x + 2}{x^2 + 2x} dx =
+\frac{1}{2} \ln{|x^2 + 2x|} + c
+$$
+
 ### Funzioni razionali fratte
 
-In base al grado del numeratore $N(x)$ e del denominatore $D(x)$ si avranno diversi _metodi di integrazione_:
+In base al grado del numeratore $N(x)$ e del denominatore $D(x)$, i _metodi di integrazione_ saranno:
 
 - Quando $\deg(N(x)) \geq \deg(D(x))$, allora si usa il metodo di **divisione tra polinomi**
 - Altrimenti, si risolve con il metodo **A e B**.
