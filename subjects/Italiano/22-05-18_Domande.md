@@ -104,10 +104,29 @@ L'ultima opera è chiamata "Notturno" e denomina l'ultimo periodo della poetica 
 
 ## Ungaretti
 
-### 1. Opere principali di Ungaretti (Allegria, ...)
+### 1. Opere principali di Ungaretti
+
+Le opere principali sono comprese in 3 raccolte: **"L'allegria"** che comprende i brani "In memoria", "Veglia" e fratelli,
+**"Sentimento del tempo"** in cui è presente il brano "La madre" e la raccolta **"Il dolore"** nella quale è presente il brano "Non gridate più".
+
 ### 2. Temi fondamentali
+
+Nella sua poesia i temi principali sono:
+- La guerra.
+- La memoria.
+- L'allegria.
+- La solidarietà tra umani.
+- Il dolore.
+
 ### 3. Innovazioni apportate da Ungaretti alla poesia
+
+Nelle tre fasi di vita di Ungaretti (guerra al fronte, conversione al cattolicesimo ed il dolore per la perdita di suo figlio)
+c'è un'aspetto costante nel suo modo di scrivere, ovvero la ricerca della potenzialità espressiva della parola.
 ### 4. Lessico, sintassi, metrica e linguaggio
+
+Il suo stile è caratterizzato dalla brevità dei versi, versi liberi (che non rispettano rime o schemi), analogie (figure retoriche usate come comparazione),
+linguaggio semplice, parole simboliche, abolizione della punteggiatura e la rivoluzione dell'ordine sintattico delle frasi.
+
 
 ## Montale
 
