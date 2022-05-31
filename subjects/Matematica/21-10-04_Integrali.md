@@ -93,8 +93,7 @@ $$\int \frac{2t}{t} dt = \int 2 dt = 2t = 2\sqrt{1-x} + c$$
 Questo metodo semplifica l'integrazione di un'integranda composta dalla moltiplicazione tra due funzioni $f(x)$ e $g'(x)$, dove $g'(x)$ è la derivata di $g(x)$.
 
 $$\int f(x)g'(x) dx = f(x)g(x) - \int f'(x)g(x) dx$$
-
-Dove i fattori da scegliere sono:
+dove i fattori da scegliere sono:
 
 - $f(x)$ o **fattore finito**, che deve essere _facilmente derivabile_
 - $g'(x) dx$ o **fattore differenziale**, per cui $g'(x)$ deve essere _facilmente integrabile_
@@ -122,7 +121,6 @@ $$f(z) = \frac{\int_a^b f(x) dx}{b - a}$$
 Questo teorema introduce la formula di **Leibniz-Newton**, che collega gli integrali indefiniti con quelli definiti, producendo un numero che corrisponde all'area **con segno** sottesa al grafico di una funzione.
 
 $$\int_a^b f(x) dx = F(b) - F(a)$$
-
 dove $F(b)$ e $F(a)$ sono valori che provengono dalla sostituzione degli estremi $b$ ed $a$ nella funzione _primitiva fondamentale_.
 
 Un esempio:
