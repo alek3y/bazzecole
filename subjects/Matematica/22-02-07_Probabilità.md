@@ -47,7 +47,7 @@ l'_unione_ restituisce tutti gli elementi contenuti all'interno degli eventi coi
 $$A = \{4, 5, 6\},\ B = \{2, 4, 6\}$$
 $$A \cup B = \{2, 4, 5, 6\}$$
 
-Per l'_intersezione_ invece, è possibile solo quando i due eventi sono **\underline{compatibili}**, per cui $A \cap B \neq \emptyset$ e quindi sono _disgiunti_.
+Per l'_intersezione_ invece, è possibile solo quando i due eventi sono **compatibili**, per cui $A \cap B \neq \emptyset$ e quindi non sono _disgiunti_.
 Per cui, il risultato sarà un insieme contentente tutti gli elementi in comune:
 $$A \cap B = \{4, 6\}$$
 $$C = \{1, 2\} \Rightarrow A \cap C = \emptyset \Rightarrow \textrm{incompatibili}$$
@@ -57,6 +57,40 @@ $$\overline A = \{1, 2, 3\},\ \overline C = \{3, 4, 5, 6\}$$
 
 ## Probabilità totale
 
-La _probabilità totale_ di due eventi è la **probabilità della loro unione**, che corrisponde alla somma delle probabilità dei due eventi esclusa la loro l'intersezione (per evitare che venga inclusa due volte).
+La _probabilità totale_ di due eventi è la **probabilità della loro unione**, cioè la somma delle probabilità dei due eventi esclusa la loro l'intersezione (per evitare che venga inclusa due volte).
 
 $$p(A \cup B) = p(A) + p(B) - p(A \cap B)$$
+
+Nel caso in cui $A \cap B = \emptyset$, allora $p(A \cap B) = 0$ e quindi equivale alla somma delle due probabilità.
+
+## Probabilità contraria
+
+La _probabilità contraria_ di un evento è la probabilità dell'**evento contrario**, che unito all'evento da un _evento certo_.
+
+$$p(\overline A) + p(A) = 1$$
+$$p(\overline A) = 1 - p(A)$$
+
+## Probabilità condizionata
+
+La _probabilità condizionata_ di un evento $A$ condizionato a $B$ è la probabilità che si verifichi $A$, considerando che $B$ si è già verificato.
+
+$$p(A/B) = \frac{p(A \cap B)}{p(B)} = \frac{n_{A \cap B}}{n_B}$$
+
+Un esempio:
+$$S = \textrm{un mazzo da 40}$$
+$$E_1 = \textrm{esce una carta rossa},\ E_2 = \textrm{esce una carta di cuori}$$
+$$p(E_2 / E_1) = \frac{n_{E_2 \cap E_1}}{n_{E_1}} = \frac{10}{20} = \frac{1}{2}$$
+
+## Eventi indipendenti
+
+Due eventi sono considerati **indipendenti** quando
+$$p(A) = p(A / B)$$
+cioè quando, per l'evento $A$, _non importa_ che $B$ si sia verificato oppure no, dato che non cambia le probabilità di $A$.
+
+## Probabilità composta
+
+La probabilità composta equivale alla probabilità che si verifichino due eventi congiunti **dipendenti**.
+$$p(A \cap B) = p(A / B) \cdot p(B)$$
+
+Quando sono **indipendenti** invece, $p(A) = p(A / B)$ quindi:
+$$p(A \cap B) = p(A) \cdot p(B)$$
