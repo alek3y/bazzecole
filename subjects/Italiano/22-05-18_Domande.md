@@ -55,18 +55,52 @@ Differenze nel verismo:
 ## Decadentismo
 
 ### 1. Il contesto storico del Decadentismo
+
+A partire dal 1860 in Europa cominciarono a manifestarsi delle tendenze culturali che rifiutavano la fiducia nella scienza del positivismo e del Naturalismo. Inoltre queste nuove tendeze avevano in comune la critica verso i borghesi, ritenere l'artista superiore all'uomo tradizionale e il disinteresse delle questioni politiche e sociali. \
+Queste tendenze rientrano nella categoria del Decadentismo e le più importanti sono il Simbolismo e l'Estetismo. \
+I più grandi esponenti decadentisti sono Nietzsche e Bergsong.
+
 ### 2. Quando e perchè entra in crisi il Positivismo?
+
+Il positivismo entra in crisi alla fine del 1800 a causa della Grande Depressione del 1873 (che dura fino al 1895) in cui si visse una crisi economica e industriale che porta un grande disagio nelle persone e dove la borghesia stava sempre più prendendo potere. Vista la situazione gli intellettuali iniziano a distaccarsi andando contro a queste convenzioni sociali. \
+Con questa crisi il pubblico capì che la scienza tanto sostenuta dai positivisti non era in grado di risolvere tutti i problemi dell'uomo, la gente perse così fiducia in questo movimento.
+
 ### 3. Il decadentismo rappresenta un momento di decadenza artistica?
+
+No, il decadentismo rappresenta un periodo di decadenza della società. Questo termine fu utilizzato per la prima volta dal poeta francese Verlaine che lo usava per indicare la situazione sociale di quel momento ma anche per indicare la nuova generazione di poeti che si opponeva alla borghesia e per la loro diversità nella produzione poetica.
+
 ### 4. Qual è secondo il decadentismo l'unica forma di conoscienza possibile?
+
+Nel decadentismo l'unica forma di conoscenza è l'arte. Infatti alcuni poeti decadentisti come Bergson e i poeti maledetti dicono che il poeta ha il ruolo di veggente e che solo grazie alla poesia e all'intuizione si possono scoprire i misteri della vita e della natura.
+
 ### 5. L'arte (del decadentismo) ha fini morali o sociali?
+
+No, il decadentismo non ha fini morali o sociali, vengono infatti svalutate tutte le convenzioni che le persone normali ritengono importanti come la scienza, la famiglia, la morale e la religione. \
+Nietzsche crea proprio il termine di "Superuomo" che rappresenta colui che riesce ad abbattere tutte le regole della morale comune.
 
 ## D'Annunzio
 
 ### 1. Principali opere in prosa di D'Annunzio
+
+Le principali opere in prosa sono: "Il piacere" (1889), "L'innocente" (1892), "Il fuoco" (1900), "Forse che sì forse che no" (1910).
+
 ### 2. Principali opere in versi di D'Annunzio
+
+Le principali opere in versi (poesie) sono: "Primo vere" (1879), "Poema paradisiaco" (1893) e i quattro libri ("Maia", "Elettra", "Alcyone", "Merope") delle "Laudi" (1903-1912).
+
 ### 3. La poetica d'annunziana
+
+D'Annunzio appartiene alla corrente dell'Estetismo in cui mette in pratica il concetto di vivere una vita inimitabile piena di sfizi e ricchezze e in cui si sente superiore a tutti. \
+D'Annunzio deriva il concetto di superuomo di Nietzsche in cui l'uomo è aggressivo, violento ed esteta (ama la bellezza) che lo rendono superiore rispetto agli altri (colui che è in grado di migliorare il mondo). \
+Utilizza molto spesso quello che si definisce panismo d'annunziano.
+
 ### 4. Cosa si intende per Panismo?
+
+Per Panismo si intende un aspetto molto presente nella poetica di d'Annunzio in cui l’uomo è in grado di fondersi con la natura. Questo termine deriva dal nome del dio greco Pan (dio dei boschi).
+
 ### 5. La fase notturna
+
+L'ultima opera è chiamata "Notturno" e denomina l'ultimo periodo della poetica di D'annunzio in cui le sue liriche sono più intime e biografiche.
 
 ## Ungaretti
 
@@ -177,6 +211,17 @@ Delle volte sono presenti dei termini dialettali, stranieri o derivati da un lin
 ## Futurismo
 
 ### 1. Genesi, componenti culturali e significato politico
+
+Il futurismo fu un movimento di avanguardia fondato da Marinetti a Parigi nel 1909 dopo la pubblicazione di un manivesto all'interno di un giornale Francese. \
+I futuristi derivano questo nome al fatto che videro nelle macchine, nella modernità e nella tecnologia il futuro del mondo e il disprezzo di tutto quello che apparteneva al passato, come la borghesia. \
+Essi erano favorevoli alla guerra (e al Fascismo) in quanto ritenevano che poteva portare un progresso nella società; \
+Rifiutavano anche la razionalità preferendo l'intuito.
+
+Secondo i poeti futurisi bisognava distruggere la sintassi, abolendo l'avverbio e la punteggiatura, e usando i verbi all'infinito. \
+Quindi non si ha più una scrittura letta da sinistra verso destra con una riga sotto l'altra, ma le parole vengono sparse per il foglio. Le parole, quindi, non serve più che abbiano un senso o che siano collegate tra loro.
+
+Gli esponenti letterari più importanti sono: Marinetti e Palazzeschi, per quanto riguarda la Francia il massimo esponente era Apollinaire. \
+I testi più conosciuti sono "Piove" di Apollinaire, "Aggressività, Audacia e Dinamismo" di Marinetti e "E lasciatemi divertire" di Palazzeschi.
 
 ## Quasimodo
 
