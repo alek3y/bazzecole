@@ -235,12 +235,35 @@ Delle volte sono presenti dei termini dialettali, stranieri o derivati da un lin
 ## Svevo
 
 ### 1. Opere principali di Svevo
+
+Le opere principali di svevo sono: "Una vita", "Senilità" e "La coscienza di Zeno". Le prime due inizialmente sono state ignorata dalla critica mentre la seconda ottiene subito un discreto successo.
+
 ### 2. Di cosa parla la coscienza di Zeno?
+
+"La coscienza di Zeno", è un romanzo in cui il personaggio principale, Zeno Cosini che, con l'obiettivo di smettere di fumare, si rivolge ad uno psicanalista (Dottor S.) il quale chiede a Zeno di scrivere un diario con tutti i fatti più essenziali della sua vita, con lo scopo di analizzarsi e vincere le proprie fissazioni. \
+Tutto il romanzo si basa su una lunga analisi introspettiva di Zeno, in cui vengono raccontati tutti i fatti che gli sono accaduti come lui ricorda (la prima sigaretta, i rapporti instabili con il padre e il suo matrimonio).
+
 ### 3. Chi sono i personaggi Sveviani?
+
+I personaggi di Svevo sono degli inetti cioè delle persone perennemente indecise e che non sanno cogliere le occasioni della vita o prendere delle decisioni importanti. \
+I suoi personaggi rappresentano anche la società in cui vive l'autore, cioè la crisi del positivismo (il decadentismo).
+
 ### 4. Che cosa indaga Svevo nelle sue opere?
+
+Italo Svevo dà maggiore spazio allo studio dei personaggi piuttosto che alla descrizione di fatti o ambienti. \
+Svevo racconta i suoi personaggi facendo delle analisi psicologiche, rappresentando tutte le loro contraddizioni interiori.
+
 ### 5. Che tipo di linguaggio usa?
+
+Svevo utilizza un linguaggio molto immediato che sembra quasi parlato che serve a rappresentare le riflessioni dei personaggi.
+
 ### 6. In cosa consiste l'originalità dell'arte Sveviana?
+
+L’originalità di Svevo deriva principalmente dal fatto che egli fa dell’inetto il punto di vista sulla realtà e sul mondo. Quindi i suoi personaggi rappresentano la società in cui vive il poeta.
+
 ### 7. Perchè si può dire che con Svevo si infrange la struttura tradizionale del romanzo?
+
+"La coscienza di Zeno" viene definita come il primo romanzo moderno della letteratura italiana. Questo perchè Svevo utilizza delle nuove tecniche narrative che non appartengono al romanzo tradizionale, come l'analisi psicologica dei personaggi, utilizzo di passaggi tra passato e presente (flashback) e il narratore non è più onnisciente.
 
 ## Futurismo
 
