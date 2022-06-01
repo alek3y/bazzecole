@@ -12,8 +12,9 @@ $$\int f(x) dx$$
 L'integrale indefinito restituisce una **famiglia di primitive** (funzioni) con $c \in \mathbb{R}$, in cui la **primitiva fondamentale** ha $c = 0$.
 
 La primitiva $F(x)$ di un integrale è il risultato dell'integrazione, che derivata restituisce l'_integranda_.
+Di conseguenza l'_integrale_ è l'operazione **inversa** della _derivata_.
 $$F(x) = \int f(x) dx$$
-$$\frac{\mathrm{d}}{\mathrm{d}x}F(x) = f(x)$$
+$$\frac{d}{dx}F(x) = f(x)$$
 
 ## Metodi di risoluzione
 
