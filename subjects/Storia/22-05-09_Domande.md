@@ -64,7 +64,14 @@ Ci fu anche la Pace di Saint-Germain con l'Austria che vietava la fusione con la
 ## Fascismo
 
 ### 1. Primo dopoguerra in Europa
+
+Dopo la ww1 si vise un'Europa in carestia, a causa di un lungo periodo di denutrizione che aveva determinato una scarsa difesa immunitaria.
+
 ### 2. Primo dopoguerra in Italia
+
+Con il ritorno a casa dei combattenti consapevoli dei loro diritti diventa difficile dar a tutti un lavoro, crescono quindi i casi di disoccupazione portando alla creazione di "associazioni di ex combattenti",
+l' Italia inoltre rimane insoddisfatta in quanto la vittoria è "mutilata" dato che non le furono concessi tutti gli stati discussi nel patto di Londra.
+
 ### 3. Impresa di Fiume
 ### 4. Come arriva al potere Mussolini?
 ### 5. La marcia su Roma

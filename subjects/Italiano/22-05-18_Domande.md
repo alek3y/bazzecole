@@ -48,9 +48,24 @@ Differenze nel verismo:
 ## Verga
 
 ### 1. Quanti e quali periodi si possono riconoscere in Verga?
+
+La vita di verga può essere divisa in 3 periodi:
+1. Temi patriottici e Romanticismo
+2. Adesione al Verismo
+3. Raccolte di novelle
+
 ### 2. Le opere maggiori di Verga
+
+Le opere maggiori sono presenti nella raccolta: **"Il ciclo dei vinti"** e sono: "I Malavoglia" e "Mastro-don Gesualdo" dove si può notare una forte presenza
+dell'ideale dell'ostrica.
+
 ### 3. Chi sono i protagonisti delle opere di Verga?
+
+I protagonisti delle opere di verga comprendono uomini di umili origini sociali come contadini e pastori.
+
 ### 4. Quale visione ha Verga della vita e del progresso?
+
+Verga in contrasto con il positivismo nega che il progresso significhi serenità in quanto l'uomo è sempre alla ricerca di ambizioni sempre più elevate, le quali lo logorano giorno dopo giorno.
 
 ## Decadentismo
 
