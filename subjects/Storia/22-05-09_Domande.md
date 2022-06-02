@@ -54,12 +54,46 @@ Ci fu anche la Pace di Saint-Germain con l'Austria che vietava la fusione con la
 ## Rivoluzione Russa
 
 ### 1. Situazione Russa all'inizio del 1900
+
+All'inizio del 1900 la Russia era uno dei paesi più popolati del mondo e aveva una grande quantità di risorse naturali. \
+La Russia però aveva una pessima situazione sociale: la maggioranza della popolazione era localizzata ad ovest (verso l'europa). \
+La popolazione era divisa in etnie ognuna con lingua, cultura e religione diversa. \
+La Russia era comandata dallo Zar che deteneva il potere assoluto e utilizzava questo potere in maniera molto aggressiva (dispotismo): la stampa, i romanzi e libri venivano censurati; l'insegnamento nelle scuole veniva constantemente messo sotto sorveglianza; le persone nobili possedevano quasi tutte le terre rendendo la vita dei contadini intollerabile.
+
+
 ### 2. Quali classi sociali c'erano?
+
+C'erano le classi superiori come le famiglie reali e la nobiltà. \
+Erano presenti poi i commercianti, gli operai e gli artigiani. \
+Infine la classe sociale che rappresentava circa 80% della popolazione erano i contadini. 
+
 ### 3. Quali partiti c'erano?
+
+Tre erano le forze politiche principali: il Partito Socialdemocratico, il Partito Socialista Rivoluzionario e il parito Costituzionale democratico (la borghesia).
+Il partito Socialdemocratico si era diviso in due correnti:
+- **La corrente bolscevica** ("maggioranza") guidata la **Lenin** che sosteneva che fosse necessario lottare per ottenere una rivoluzione con la classe operaia al comando.
+- **La corrente menscevica** ("minoranza") che sosteneva che prima di attuare rivoluzione bisognasse allearsi con i borghesi.
+
 ### 4. Quando scoppia la rivoluzione?
+
+La rivoluzione avviene nel 1917 in due fasi: la rivoluzione di febbraio e la rivoluzione di ottobre.
+
 ### 5. Tappe fondamentali
+
+Dallo scontro tra i partiti politici nascono i soviet, cioè assemblee che organizzavano proteste contro lo zar. \
+Lo zar concede la Duma (costituzione) cioè l'elezione di un parlamento. \
+I soviet si rafforzano e costringono lo zar a lasciare il suo ruolo, inoltre vogliono fondare una repubblica (rivoluzione di febbraio).
+Lenin sostiene i soviet e li unisce alla corrente bolscevica che si trasforma in partito comunista. \
+I bolscevichi assaltano il palazzo d'Inverno (sede del Governo) che porterà Lenin ad essere il capo effettivo dei soviet (rivoluzione di ottobre) \
+Scoppia una guerra civile tra bolscevichi e antibolscevichi.
+
 ### 6. Come esce la Russia dalla guerra civile?
+
+La guerra civile tra bolscevichi, chiamati "rossi", e antibolscevichi, chiamati "bianchi" (sostenuti anche dai paese esteri che non volevano la vittaria del partito comunista), viene vinta dai bolscevichi che porta il partito comunista al potere in Russia.
+
 ### 7. In che cosa consiste la NEP?
+
+La NEP (Nuova Politica Economica) era una policia economica instaurata da Lenin per ripristinare la situazione commerciale della Russia: favorendo il libero commercio, l'aumento dei prodotti, maggiore libertà ai contadini e favorendo anche le aziende private.
 
 ## Fascismo
 
