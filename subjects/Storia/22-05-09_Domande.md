@@ -107,11 +107,43 @@ Con il ritorno a casa dei combattenti consapevoli dei loro diritti diventa diffi
 l' Italia inoltre rimane insoddisfatta in quanto la vittoria è "mutilata" dato che non le furono concessi tutti gli stati discussi nel patto di Londra.
 
 ### 3. Impresa di Fiume
+
+D'Annunzio essendo la voce nazionalsita più autorevole all'epoca, dopo lo scontento della vittoria mutilata creò una cospirazione per prendere possesso della città di Fiume e rivendicarla come conquista italiana.
+Il 12 settembre 1919 D'Annunzio entrò a Fiume assieme ad altri legionari, i quali erano anche sostenuti da Mussolini, ma dato che quest'operazione andava in conflitto con i trattati che l'Italia aveva firmato, l'impresa di fiume presa una piega più diplomatica.
+Il governo dunque sospese i rifornimenti alla città e Giolitti normalizzò i rapporti con la Jugoslavia firmando il trattato di **Rapallo** nel che disegnava i confini italiani. 
+
 ### 4. Come arriva al potere Mussolini?
+
+Mussolini arriva al potere tramite colpo di stato con la marcia su Roma il 28 ottobre 1922, dove Vittorio Emanuele III non fece disperdere le sue truppe ed inoltre rese Mussolini **primo ministro**.
+Il governo fascista durò fino al 1943 (20 anni).
+
 ### 5. La marcia su Roma
+
+Il 28 ottobre 1922 Mussolini assieme alle camice nere effettua la marcia su roma con lo scopo di assumere la direzione del governo, che risultò anche semplice in quanto Vittorio Emanuele III non fece disperdere le truppe di Mussolini e gli affidò il governo.
+
 ### 6. Chi erano i sostenitori dei fasci?
+
+I sostenitori dei fasci erano:
+- Industriali: per evitare proteste operaie.
+- Ufficiali: aspirano ad una rivincita nazionalistica.
+- Borghesia: voleva migliorare le proprie condizioni economiche.
+
 ### 7. Il delitto Matteotti
+
+Dopo la campagna elettorale del 1924 costellata di episodi di violenza, il fascismo vinse con il 64% dei voti, fu chiaro quindi che la vittoria era "taroccata".
+Il 30 maggio, Matteotti si reca in parlamento per denunciare le ingiustizie di quella elezione, voleva quindi che le elezioni venissero sospese.
+Matteotti 10 giorni dopo sparì assieme alle prove della corruzzione fascista e 2 mesi dopo venne ritrovato il suo corpo defunto in un bosco.
+Anni dopo Mussolini rivendicò l'omicidio.
+
 ### 8. le leggi fascistissime
+
+Nel 1925 nascono le leggi fascistissime che aboliscono ogni opinione antifascista, le quali comprendono:
+- Camice nere riconosciute come milizia per la sicurezza nazionale.
+- Obbligatoria l'iscrizone al partito fascista per partecipare a concorsi pubblici.
+- Abolito il segreto di voto.
+- Impedita la libertà di stampa.
+- Vengono sciolti i partiti antifascisti.
+
 ### 9. I patti lateranensi
 ### 10. La politica economica del Fascismo
 ### 11. Le emanazini del partito fascista
