@@ -145,16 +145,69 @@ Nel 1925 nascono le leggi fascistissime che aboliscono ogni opinione antifascist
 - Vengono sciolti i partiti antifascisti.
 
 ### 9. I patti lateranensi
+
+Il fascismo ottenne l'appoggio della Chiesa grazie alla firma dei  patti lateranensi nel 1929, i quali comprendevano:
+- Il vaticano stato indipendente.
+- Il riconoscimento del cattolicesimo come religione di stato.
+- L'insegnamento della religione cattolica nelle scuole.
+- Il matrimonio religioso assume valore civile.
+- Vantaggi del clero come gli stipendi.
+
 ### 10. La politica economica del Fascismo
-### 11. Le emanazini del partito fascista
+
+La politica economica fascista segue le linee guida del liberalismo classico (libero mercato), e tra gli obiettivi principali sono presenti:
+- Autosufficienza agricola e industraile.
+- Indipendenza economica nazionale.
+- Tariffe doganali assieme a barriere commerciali (aumento della competitività dei prodotti italiani nel mercato interno).
+
+### 11. Le emanazioni del partito fascista
+
+1. Milizia volontaria per la sicurezza nazionale.
+2. Gran consiglio del fascismo.
+3. Tribunale speciale per la dfesa dello stato.
+4. La legge che rende obbligatoria l'iscrizione al partito per i dipendenti dello stato
+5. Il parlamento viene completamente esartorato attraverso queste tappe:
+    - Nel 1926 assunzione del potere legislativo da parte di Mussolini (già come capo del governo deteneva quello esecutivo).
+    - La sostituzione delle elezioni con un plebiscito (1929).
+    - Abolizione del parlamento sostituito dalla camera dei fasci e delle corporazioni (1939).
+
+
+
 
 ## Nazismo
 
 ### 1. La repubblica di Weimar
+
+Per repubblica di Weimar si intende la nuova repubblica democratica eletta nel 1919 con suffragio universale.
+
 ### 2. Avvento del Nazismo
+
+A causa della crisi dei Stati Uniti, Hitler va a capo del partito nazionalsocialista, il quale diventa di maggioranza nel 1932 e portò Hitler
+ad essere proclamato cancelliere dal presidente della repubblica di Hidenburg.
+Hitler trasformò la Germania nel terzo reich ispirato all'ideologia nazionalsocialsita e all'antisemitismo.
+
 ### 3. L'ideologia del Nazismo
+
+Hitler era convinto che esistessa una razza superiore (la razza ariana), sosteneva che essa dovesse dominare sulle altre inferiori,
+riteneva che gli ebrei fossero i responsabili dei mali del mondo (come comunismo e capitalismo).
+Furono proclamate quindi le leggi di norimberga, le quali obbligavano gli ebrei a indossare la stella di david per essere riconosciuti.
+
 ### 4. Le tappe attraverso cui Hitler instaura la dittatura
+
+Dopo la morte del presidente di Hidenburg, Hitler crea una nuova carica: Il Fuhrer, che riunisce le cariche di capo di stato e del governo,
+è qui che nasce ufficialmente la sua dittatura.
+
 ### 5. Differenza tra lo stato totalitario e autoritario
+
+Il totalitarismo è una forma estrema di autoritarismo.
+
+**autoritarismo**:
+- Le istituzioni sociali ed economiche esistono al di fuori del controllo del governo.
+- Le persone sono controllate usando la paura.
+
+**totalitarismo**:
+- Il governo controlla tutto
+- Le persone seguono il leader a causa del suo carisma.
 
 ## Crisi del 29
 
